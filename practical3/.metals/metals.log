@@ -1,0 +1,314 @@
+2024.06.30 21:41:10 INFO  Started: Metals version 1.3.2 in folders 'D:\UCSC\2Yr 1Sem\FP\practical3' for client Visual Studio Code 1.90.2.
+SLF4J(W): Class path contains multiple SLF4J providers.
+SLF4J(W): Found provider [scribe.slf4j.ScribeServiceProvider@2eaeae5f]
+SLF4J(W): Found provider [ch.qos.logback.classic.spi.LogbackServiceProvider@71572aa5]
+SLF4J(W): See https://www.slf4j.org/codes.html#multiple_bindings for an explanation.
+SLF4J(I): Actual provider is of type [scribe.slf4j.ScribeServiceProvider@2eaeae5f]
+2024.06.30 21:41:10 WARN  Flyway upgrade recommended: H2 2.2.224 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.220.
+Jun 30, 2024 9:41:12 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2
+2024.06.30 21:41:12 INFO  no build target found for D:\UCSC\2Yr 1Sem\FP\practical3\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.30 21:41:12 INFO  no build target found for D:\UCSC\2Yr 1Sem\FP\practical3\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.30 21:41:15 INFO  no build target found for D:\UCSC\2Yr 1Sem\FP\practical3\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.30 21:41:15 INFO  no build target found for D:\UCSC\2Yr 1Sem\FP\practical3\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+Jun 30, 2024 9:41:15 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 15
+2024.06.30 21:41:15 INFO  no build target found for D:\UCSC\2Yr 1Sem\FP\practical3\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+Jun 30, 2024 9:41:15 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 14
+2024.06.30 21:41:15 INFO  no build target found for D:\UCSC\2Yr 1Sem\FP\practical3\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.30 21:41:15 INFO  no build target found for D:\UCSC\2Yr 1Sem\FP\practical3\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.30 21:41:15 INFO  no build target found for D:\UCSC\2Yr 1Sem\FP\practical3\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.30 21:41:15 INFO  no build target found for D:\UCSC\2Yr 1Sem\FP\practical3\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.30 21:41:15 INFO  no build target found for D:\UCSC\2Yr 1Sem\FP\practical3\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.30 21:41:15 INFO  no build target found for D:\UCSC\2Yr 1Sem\FP\practical3\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.30 21:41:16 INFO  no build target found for D:\UCSC\2Yr 1Sem\FP\practical3\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.30 21:41:16 INFO  no build target found for D:\UCSC\2Yr 1Sem\FP\practical3\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.30 21:41:16 INFO  no build target found for D:\UCSC\2Yr 1Sem\FP\practical3\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.30 21:41:16 INFO  no build target found for D:\UCSC\2Yr 1Sem\FP\practical3\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.30 21:41:16 INFO  no build target found for D:\UCSC\2Yr 1Sem\FP\practical3\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.30 21:41:16 INFO  no build target found for D:\UCSC\2Yr 1Sem\FP\practical3\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.30 21:41:18 INFO  no build target found for D:\UCSC\2Yr 1Sem\FP\practical3\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.30 21:41:18 INFO  no build target found for D:\UCSC\2Yr 1Sem\FP\practical3\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.30 21:41:19 INFO  no build target found for D:\UCSC\2Yr 1Sem\FP\practical3\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.30 21:41:19 INFO  no build target found for D:\UCSC\2Yr 1Sem\FP\practical3\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.30 21:41:19 INFO  no build target found for D:\UCSC\2Yr 1Sem\FP\practical3\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.30 21:41:19 INFO  no build target found for D:\UCSC\2Yr 1Sem\FP\practical3\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.30 21:41:19 INFO  no build target found for D:\UCSC\2Yr 1Sem\FP\practical3\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.30 21:41:19 INFO  no build target found for D:\UCSC\2Yr 1Sem\FP\practical3\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.30 21:41:19 INFO  no build target found for D:\UCSC\2Yr 1Sem\FP\practical3\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.30 21:41:19 INFO  no build target found for D:\UCSC\2Yr 1Sem\FP\practical3\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.30 21:41:20 INFO  no build target found for D:\UCSC\2Yr 1Sem\FP\practical3\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.30 21:41:21 INFO  Running List(C:\Users\123\AppData\Local\Coursier\data\bin\scala-cli.BAT, setup-ide, D:\UCSC\2Yr 1Sem\FP\practical3)
+2024.06.30 21:41:21 INFO  no build target found for D:\UCSC\2Yr 1Sem\FP\practical3\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.30 21:41:21 INFO  Attempting to connect to the build server...
+2024.06.30 21:41:21 INFO  Running BSP server List(C:\Users\123\AppData\Local\Coursier\data\bin\.scala-cli.aux.exe, bsp, --json-options, D:\UCSC\2Yr 1Sem\FP\practical3\.scala-build\ide-options-v2.json, --json-launcher-options, D:\UCSC\2Yr 1Sem\FP\practical3\.scala-build\ide-launcher-options.json, --envs-file, D:\UCSC\2Yr 1Sem\FP\practical3\.scala-build\ide-envs.json, D:\UCSC\2Yr 1Sem\FP\practical3)
+2024.06.30 21:41:21 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at D:\UCSC\2Yr 1Sem\FP\practical3\.metals\bsp.trace.json or C:\Users\123\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.06.30 21:41:22 INFO  no build target found for D:\UCSC\2Yr 1Sem\FP\practical3\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.30 21:41:22 INFO  no build target found for D:\UCSC\2Yr 1Sem\FP\practical3\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.30 21:41:22 INFO  no build target found for D:\UCSC\2Yr 1Sem\FP\practical3\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.30 21:41:22 INFO  no build target found for D:\UCSC\2Yr 1Sem\FP\practical3\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.30 21:41:22 INFO  no build target found for D:\UCSC\2Yr 1Sem\FP\practical3\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.30 21:41:22 INFO  no build target found for D:\UCSC\2Yr 1Sem\FP\practical3\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.30 21:41:22 INFO  no build target found for D:\UCSC\2Yr 1Sem\FP\practical3\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.30 21:41:24 INFO  BSP server: Starting compilation server
+2024.06.30 21:41:24 INFO  no build target found for D:\UCSC\2Yr 1Sem\FP\practical3\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.30 21:41:27 INFO  no build target found for D:\UCSC\2Yr 1Sem\FP\practical3\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.30 21:41:27 INFO  no build target found for D:\UCSC\2Yr 1Sem\FP\practical3\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.30 21:41:27 INFO  no build target found for D:\UCSC\2Yr 1Sem\FP\practical3\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.30 21:41:27 INFO  no build target found for D:\UCSC\2Yr 1Sem\FP\practical3\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.30 21:41:27 INFO  no build target found for D:\UCSC\2Yr 1Sem\FP\practical3\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.30 21:41:29 INFO  no build target found for D:\UCSC\2Yr 1Sem\FP\practical3\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.30 21:41:29 INFO  no build target found for D:\UCSC\2Yr 1Sem\FP\practical3\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.30 21:41:29 INFO  no build target found for D:\UCSC\2Yr 1Sem\FP\practical3\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.30 21:41:29 INFO  no build target found for D:\UCSC\2Yr 1Sem\FP\practical3\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.30 21:41:29 INFO  time: Connected to build server in 7.37s
+2024.06.30 21:41:29 INFO  Connected to Build server: scala-cli v1.3.2
+2024.06.30 21:41:29 INFO  time: Imported build in 0.43s
+2024.06.30 21:41:30 INFO  compiling practical3_ff3ffe18cb (1 scala source)
+2024.06.30 21:41:32 INFO  time: compiled practical3_ff3ffe18cb in 2.24s
+Jun 30, 2024 9:41:33 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 117
+Jun 30, 2024 9:41:33 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 124
+2024.06.30 21:41:37 INFO  time: indexed workspace in 7.29s
+2024.06.30 21:42:22 ERROR scalafmt: D:\UCSC\2Yr 1Sem\FP\practical3\q1.scala:2: error: [dialect scala3] Procedure syntax is not supported. Convert procedure `main` to method by adding `: Unit =`.
+    def main(args: Array[String]) {
+        ^
+2024.06.30 21:42:22 INFO  compiling practical3_ff3ffe18cb (1 scala source)
+2024.06.30 21:42:22 INFO  time: compiled practical3_ff3ffe18cb in 0.89s
+2024.06.30 21:46:51 INFO  compiling practical3_ff3ffe18cb (1 scala source)
+2024.06.30 21:46:51 INFO  time: compiled practical3_ff3ffe18cb in 0.77s
+2024.06.30 21:47:13 INFO  compiling practical3_ff3ffe18cb (1 scala source)
+2024.06.30 21:47:13 INFO  time: compiled practical3_ff3ffe18cb in 0.35s
+2024.06.30 21:47:28 WARN  Could not find semantic tokens for: file:///D:/UCSC/2Yr%201Sem/FP/practical3/q1.scala
+Jun 30, 2024 9:47:31 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1298
+Jun 30, 2024 9:47:41 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1401
+2024.06.30 21:47:43 INFO  compiling practical3_ff3ffe18cb (1 scala source)
+2024.06.30 21:47:44 INFO  time: compiled practical3_ff3ffe18cb in 1.35s
+2024.06.30 21:48:02 INFO  compiling practical3_ff3ffe18cb (1 scala source)
+2024.06.30 21:48:02 INFO  time: compiled practical3_ff3ffe18cb in 0.61s
+2024.06.30 21:48:30 INFO  compiling practical3_ff3ffe18cb (1 scala source)
+2024.06.30 21:48:30 INFO  time: compiled practical3_ff3ffe18cb in 0.5s
+2024.06.30 21:48:44 INFO  compiling practical3_ff3ffe18cb (1 scala source)
+2024.06.30 21:48:45 INFO  time: compiled practical3_ff3ffe18cb in 1.08s
+2024.06.30 21:49:22 INFO  no build target found for D:\UCSC\2Yr 1Sem\FP\practical3\q2.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.30 21:49:22 INFO  no build target found for D:\UCSC\2Yr 1Sem\FP\practical3\q2.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.30 21:49:22 WARN  Could not find semantic tokens for: file:///D:/UCSC/2Yr%201Sem/FP/practical3/q2.scala
+2024.06.30 21:49:23 INFO  compiling practical3_ff3ffe18cb (1 scala source)
+2024.06.30 21:49:23 INFO  time: compiled practical3_ff3ffe18cb in 0.14s
+2024.06.30 21:49:25 INFO  time: indexed workspace in 1.97s
+2024.06.30 21:49:25 WARN  Could not find semantic tokens for: file:///D:/UCSC/2Yr%201Sem/FP/practical3/q2.scala
+2024.06.30 21:49:28 WARN  Could not find semantic tokens for: file:///D:/UCSC/2Yr%201Sem/FP/practical3/q2.scala
+2024.06.30 21:49:28 WARN  Could not find semantic tokens for: file:///D:/UCSC/2Yr%201Sem/FP/practical3/q2.scala
+2024.06.30 21:49:29 WARN  Could not find semantic tokens for: file:///D:/UCSC/2Yr%201Sem/FP/practical3/q2.scala
+Jun 30, 2024 9:49:33 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1542
+Jun 30, 2024 9:51:50 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2021
+Jun 30, 2024 9:51:59 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2099
+2024.06.30 21:52:11 ERROR Failed to tokenize input for semantic tokens for D:\UCSC\2Yr 1Sem\FP\practical3\q2.scala
+scala.meta.tokenizers.TokenizeException: <input>:8: error: unclosed string interpolation
+        println(s"Original list: $")
+                  ^
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:32)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:32)
+	at scala.meta.internal.tokenizers.LegacyScanner.getStringPart(LegacyScanner.scala:605)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchDoubleQuote$1(LegacyScanner.scala:347)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchToken(LegacyScanner.scala:363)
+	at scala.meta.internal.tokenizers.LegacyScanner.nextToken(LegacyScanner.scala:201)
+	at scala.meta.internal.tokenizers.LegacyScanner.foreach(LegacyScanner.scala:912)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.uncachedTokenize(ScalametaTokenizer.scala:23)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.$anonfun$tokenize$1(ScalametaTokenizer.scala:17)
+	at scala.collection.concurrent.TrieMap.getOrElseUpdate(TrieMap.scala:960)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.tokenize(ScalametaTokenizer.scala:17)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer$$anon$2.apply(ScalametaTokenizer.scala:322)
+	at scala.meta.tokenizers.Api$XtensionTokenizeDialectInput.tokenize(Api.scala:22)
+	at scala.meta.tokenizers.Api$XtensionTokenizeInputLike.tokenize(Api.scala:13)
+	at scala.meta.internal.metals.SemanticTokensProvider$.getTokens(SemanticTokensProvider.scala:28)
+	at scala.meta.internal.metals.SemanticTokensProvider$.provide(SemanticTokensProvider.scala:89)
+	at scala.meta.internal.metals.Compilers.$anonfun$semanticTokens$3(Compilers.scala:545)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.lang.Thread.run(Thread.java:1570)
+
+2024.06.30 21:52:35 ERROR Failed to tokenize input for semantic tokens for D:\UCSC\2Yr 1Sem\FP\practical3\q2.scala
+scala.meta.tokenizers.TokenizeException: <input>:9: error: unclosed string interpolation
+        println(s"List with strings of length more than 5: $")
+                  ^
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:32)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:32)
+	at scala.meta.internal.tokenizers.LegacyScanner.getStringPart(LegacyScanner.scala:605)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchDoubleQuote$1(LegacyScanner.scala:347)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchToken(LegacyScanner.scala:363)
+	at scala.meta.internal.tokenizers.LegacyScanner.nextToken(LegacyScanner.scala:201)
+	at scala.meta.internal.tokenizers.LegacyScanner.foreach(LegacyScanner.scala:912)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.uncachedTokenize(ScalametaTokenizer.scala:23)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.$anonfun$tokenize$1(ScalametaTokenizer.scala:17)
+	at scala.collection.concurrent.TrieMap.getOrElseUpdate(TrieMap.scala:960)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.tokenize(ScalametaTokenizer.scala:17)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer$$anon$2.apply(ScalametaTokenizer.scala:322)
+	at scala.meta.tokenizers.Api$XtensionTokenizeDialectInput.tokenize(Api.scala:22)
+	at scala.meta.tokenizers.Api$XtensionTokenizeInputLike.tokenize(Api.scala:13)
+	at scala.meta.internal.metals.SemanticTokensProvider$.getTokens(SemanticTokensProvider.scala:28)
+	at scala.meta.internal.metals.SemanticTokensProvider$.provide(SemanticTokensProvider.scala:89)
+	at scala.meta.internal.metals.Compilers.$anonfun$semanticTokens$3(Compilers.scala:545)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.lang.Thread.run(Thread.java:1570)
+
+Jun 30, 2024 9:54:37 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2668
+2024.06.30 21:54:46 WARN  Could not find semantic tokens for: file:///D:/UCSC/2Yr%201Sem/FP/practical3/q2.scala
+2024.06.30 21:54:53 WARN  Could not find semantic tokens for: file:///D:/UCSC/2Yr%201Sem/FP/practical3/q2.scala
+2024.06.30 21:54:54 INFO  compiling practical3_ff3ffe18cb (1 scala source)
+2024.06.30 21:54:55 INFO  time: compiled practical3_ff3ffe18cb in 1.03s
+2024.06.30 21:55:30 INFO  compiling practical3_ff3ffe18cb (1 scala source)
+2024.06.30 21:55:30 INFO  time: compiled practical3_ff3ffe18cb in 0.17s
+2024.06.30 21:55:35 INFO  compiling practical3_ff3ffe18cb (1 scala source)
+2024.06.30 21:55:35 INFO  time: compiled practical3_ff3ffe18cb in 0.15s
+2024.06.30 21:56:23 INFO  compiling practical3_ff3ffe18cb (1 scala source)
+2024.06.30 21:56:23 INFO  time: compiled practical3_ff3ffe18cb in 0.22s
+2024.06.30 21:56:39 INFO  compiling practical3_ff3ffe18cb (1 scala source)
+2024.06.30 21:56:39 INFO  time: compiled practical3_ff3ffe18cb in 0.7s
+2024.06.30 21:57:44 INFO  no build target found for D:\UCSC\2Yr 1Sem\FP\practical3\q3.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.30 21:57:44 INFO  no build target found for D:\UCSC\2Yr 1Sem\FP\practical3\q3.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.30 21:57:45 WARN  Could not find semantic tokens for: file:///D:/UCSC/2Yr%201Sem/FP/practical3/q3.scala
+2024.06.30 21:57:45 INFO  compiling practical3_ff3ffe18cb (1 scala source)
+2024.06.30 21:57:45 INFO  time: compiled practical3_ff3ffe18cb in 0.17s
+2024.06.30 21:57:47 INFO  time: indexed workspace in 2.17s
+2024.06.30 21:57:47 WARN  Could not find semantic tokens for: file:///D:/UCSC/2Yr%201Sem/FP/practical3/q3.scala
+2024.06.30 21:58:01 WARN  Could not find semantic tokens for: file:///D:/UCSC/2Yr%201Sem/FP/practical3/q3.scala
+2024.06.30 21:58:01 WARN  Could not find semantic tokens for: file:///D:/UCSC/2Yr%201Sem/FP/practical3/q3.scala
+2024.06.30 21:58:01 WARN  Could not find semantic tokens for: file:///D:/UCSC/2Yr%201Sem/FP/practical3/q3.scala
+2024.06.30 22:04:11 ERROR Failed to tokenize input for semantic tokens for D:\UCSC\2Yr 1Sem\FP\practical3\q3.scala
+scala.meta.tokenizers.TokenizeException: <input>:16: error: unclosed string interpolation
+       println(s"The arithmetic mean of $num1 and $")
+                                             ^
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:32)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:32)
+	at scala.meta.internal.tokenizers.LegacyScanner.getStringPart(LegacyScanner.scala:605)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchToken(LegacyScanner.scala:239)
+	at scala.meta.internal.tokenizers.LegacyScanner.nextToken(LegacyScanner.scala:201)
+	at scala.meta.internal.tokenizers.LegacyScanner.foreach(LegacyScanner.scala:912)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.uncachedTokenize(ScalametaTokenizer.scala:23)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.$anonfun$tokenize$1(ScalametaTokenizer.scala:17)
+	at scala.collection.concurrent.TrieMap.getOrElseUpdate(TrieMap.scala:960)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.tokenize(ScalametaTokenizer.scala:17)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer$$anon$2.apply(ScalametaTokenizer.scala:322)
+	at scala.meta.tokenizers.Api$XtensionTokenizeDialectInput.tokenize(Api.scala:22)
+	at scala.meta.tokenizers.Api$XtensionTokenizeInputLike.tokenize(Api.scala:13)
+	at scala.meta.internal.metals.SemanticTokensProvider$.getTokens(SemanticTokensProvider.scala:28)
+	at scala.meta.internal.metals.SemanticTokensProvider$.provide(SemanticTokensProvider.scala:89)
+	at scala.meta.internal.metals.Compilers.$anonfun$semanticTokens$3(Compilers.scala:545)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.lang.Thread.run(Thread.java:1570)
+
+2024.06.30 22:04:15 ERROR Failed to tokenize input for semantic tokens for D:\UCSC\2Yr 1Sem\FP\practical3\q3.scala
+scala.meta.tokenizers.TokenizeException: <input>:16: error: unclosed string interpolation
+       println(s"The arithmetic mean of $num1 and $num2 is: $")
+                                                       ^
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:32)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:32)
+	at scala.meta.internal.tokenizers.LegacyScanner.getStringPart(LegacyScanner.scala:605)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchToken(LegacyScanner.scala:239)
+	at scala.meta.internal.tokenizers.LegacyScanner.nextToken(LegacyScanner.scala:201)
+	at scala.meta.internal.tokenizers.LegacyScanner.foreach(LegacyScanner.scala:912)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.uncachedTokenize(ScalametaTokenizer.scala:23)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.$anonfun$tokenize$1(ScalametaTokenizer.scala:17)
+	at scala.collection.concurrent.TrieMap.getOrElseUpdate(TrieMap.scala:960)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.tokenize(ScalametaTokenizer.scala:17)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer$$anon$2.apply(ScalametaTokenizer.scala:322)
+	at scala.meta.tokenizers.Api$XtensionTokenizeDialectInput.tokenize(Api.scala:22)
+	at scala.meta.tokenizers.Api$XtensionTokenizeInputLike.tokenize(Api.scala:13)
+	at scala.meta.internal.metals.SemanticTokensProvider$.getTokens(SemanticTokensProvider.scala:28)
+	at scala.meta.internal.metals.SemanticTokensProvider$.provide(SemanticTokensProvider.scala:89)
+	at scala.meta.internal.metals.Compilers.$anonfun$semanticTokens$3(Compilers.scala:545)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.lang.Thread.run(Thread.java:1570)
+
+2024.06.30 22:04:18 INFO  compiling practical3_ff3ffe18cb (1 scala source)
+2024.06.30 22:04:18 INFO  time: compiled practical3_ff3ffe18cb in 0.85s
+2024.06.30 22:05:01 INFO  compiling practical3_ff3ffe18cb (1 scala source)
+2024.06.30 22:05:01 INFO  time: compiled practical3_ff3ffe18cb in 0.41s
+2024.06.30 22:05:36 INFO  no build target found for D:\UCSC\2Yr 1Sem\FP\practical3\q4.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.30 22:05:36 INFO  no build target found for D:\UCSC\2Yr 1Sem\FP\practical3\q4.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.30 22:05:36 WARN  Could not find semantic tokens for: file:///D:/UCSC/2Yr%201Sem/FP/practical3/q4.scala
+2024.06.30 22:05:37 INFO  compiling practical3_ff3ffe18cb (1 scala source)
+2024.06.30 22:05:37 INFO  time: compiled practical3_ff3ffe18cb in 0.12s
+2024.06.30 22:05:39 INFO  time: indexed workspace in 1.75s
+2024.06.30 22:05:39 WARN  Could not find semantic tokens for: file:///D:/UCSC/2Yr%201Sem/FP/practical3/q4.scala
+2024.06.30 22:06:12 WARN  Could not find semantic tokens for: file:///D:/UCSC/2Yr%201Sem/FP/practical3/q4.scala
+2024.06.30 22:08:05 ERROR Failed to tokenize input for semantic tokens for D:\UCSC\2Yr 1Sem\FP\practical3\q4.scala
+scala.meta.tokenizers.TokenizeException: <input>:15: error: unclosed string interpolation
+    println(s"Sum of the list of entered integers: $")
+              ^
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:32)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:32)
+	at scala.meta.internal.tokenizers.LegacyScanner.getStringPart(LegacyScanner.scala:605)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchDoubleQuote$1(LegacyScanner.scala:347)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchToken(LegacyScanner.scala:363)
+	at scala.meta.internal.tokenizers.LegacyScanner.nextToken(LegacyScanner.scala:201)
+	at scala.meta.internal.tokenizers.LegacyScanner.foreach(LegacyScanner.scala:912)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.uncachedTokenize(ScalametaTokenizer.scala:23)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.$anonfun$tokenize$1(ScalametaTokenizer.scala:17)
+	at scala.collection.concurrent.TrieMap.getOrElseUpdate(TrieMap.scala:960)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.tokenize(ScalametaTokenizer.scala:17)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer$$anon$2.apply(ScalametaTokenizer.scala:322)
+	at scala.meta.tokenizers.Api$XtensionTokenizeDialectInput.tokenize(Api.scala:22)
+	at scala.meta.tokenizers.Api$XtensionTokenizeInputLike.tokenize(Api.scala:13)
+	at scala.meta.internal.metals.SemanticTokensProvider$.getTokens(SemanticTokensProvider.scala:28)
+	at scala.meta.internal.metals.SemanticTokensProvider$.provide(SemanticTokensProvider.scala:89)
+	at scala.meta.internal.metals.Compilers.$anonfun$semanticTokens$3(Compilers.scala:545)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.lang.Thread.run(Thread.java:1570)
+
+Jun 30, 2024 10:10:28 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 6365
+2024.06.30 22:12:24 INFO  compiling practical3_ff3ffe18cb (1 scala source)
+2024.06.30 22:12:24 INFO  time: compiled practical3_ff3ffe18cb in 0.48s
+2024.06.30 22:12:42 INFO  compiling practical3_ff3ffe18cb (1 scala source)
+2024.06.30 22:12:42 INFO  time: compiled practical3_ff3ffe18cb in 0.36s
+2024.06.30 22:13:31 INFO  compiling practical3_ff3ffe18cb (1 scala source)
+2024.06.30 22:13:31 INFO  time: compiled practical3_ff3ffe18cb in 0.49s
+2024.06.30 22:14:04 INFO  compiling practical3_ff3ffe18cb (1 scala source)
+2024.06.30 22:14:04 INFO  time: compiled practical3_ff3ffe18cb in 0.48s
+2024.06.30 22:14:14 INFO  compiling practical3_ff3ffe18cb (1 scala source)
+2024.06.30 22:14:14 INFO  time: compiled practical3_ff3ffe18cb in 0.33s
+2024.06.30 22:15:40 INFO  compiling practical3_ff3ffe18cb (1 scala source)
+2024.06.30 22:15:40 INFO  time: compiled practical3_ff3ffe18cb in 0.39s
+2024.06.30 22:16:00 INFO  Shutting down server
+2024.06.30 22:16:00 INFO  shutting down Metals
+2024.06.30 22:16:00 INFO  Shut down connection with build server.
+2024.06.30 22:16:00 INFO  Exiting server
