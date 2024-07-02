@@ -1,18 +1,15 @@
-import scala.io.StdIn.readLine
+import scala.io.StdIn.readInt
 
 object q3 {
-  def mean(num1: Int, num2: Int): Double = {
-    val average = (num1 + num2) / 2.0
-    BigDecimal(average).setScale(2, BigDecimal.RoundingMode.HALF_UP).toDouble
-  }
+  def mean(num1: Int, num2: Int): Double = (num1 + num2) / 2.0
 
   def main(args: Array[String]): Unit = {
     print("Enter a number: ")
-    val num1 = readLine().toInt
+    val num1 = readInt()
     print("Enter another number: ")
-    val num2 = readLine().toInt
+    val num2 = readInt()
 
     val result = mean(num1, num2)
-    println(s"The arithmetic mean of $num1 and $num2 is: $result")
+    printf("The arithmetic mean of %d and %d is: %.2f", num1, num2, result)
   }
 }
