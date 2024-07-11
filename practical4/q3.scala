@@ -1,10 +1,10 @@
 object q3 {
   def toUpper(name: String): String = {
-    name.toUpperCase
+    name.toUpperCase()
   }
 
   def toLower(name: String): String = {
-    name.toLowerCase
+    name.toLowerCase()
   }
 
   def formatNames(name: String)(format: String => String): String = {
@@ -16,13 +16,17 @@ object q3 {
     names.foreach { name =>
       val formattedName = name match {
         case "Benny" => formatNames(name)(toUpper)
-        case "Niroshan" => formatNames(name) { n => 
-          n.substring(0, 2).toUpperCase + n.substring(2).toLowerCase 
-        }
+        case "Niroshan" =>
+          formatNames(name) { n =>
+            toUpper(n.substring(0, 2)) + toLower(n.substring(2))
+          }
         case "Saman" => formatNames(name)(toLower)
-        case "Kumara" => formatNames(name) { n => 
-          n.substring(0, 1).toUpperCase + n.substring(1, n.length - 1).toLowerCase + n.substring(n.length - 1).toUpperCase 
-        }
+        case "Kumara" =>
+          formatNames(name) { n =>
+            toUpper(n.substring(0, 1)) + toLower(
+              n.substring(1, n.length - 1)
+            ) + toUpper(n.substring(n.length - 1))
+          }
         case _ => name
       }
       println(formattedName)

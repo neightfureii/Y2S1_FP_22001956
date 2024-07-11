@@ -1,45 +1,46 @@
 object q1 {
-  var itemNames: Array[String] = Array("Apple", "Banana", "Orange")
-  var itemQuantities: Array[Int] = Array(50, 30, 20)
+  var itemNames: Array[String] =
+    Array("Book", "Pencil", "Pen", "Eraser")
+  var itemQuantities: Array[Int] = Array(20, 30, 40, 50)
 
   def displayInventory(): Unit = {
-    println("Inventory:")
     for (i <- itemNames.indices) {
-      println(s"${itemNames(i)}: ${itemQuantities(i)}")
+      println(s"Item: ${itemNames(i)}\nQuantity: ${itemQuantities(i)}\n")
     }
   }
 
-  def restockItem(itemName: String, quantity: Int): Unit = {
-    val index = itemNames.indexOf(itemName)
+  def restockItem(item: String, qty: Int): Unit = {
+    var index = itemNames.indexOf(item)
     if (index >= 0) {
-      itemQuantities(index) += quantity
-      println(s"Restocked $quantity of $itemName. New quantity: ${itemQuantities(index)}")
+      itemQuantities(index) += qty
+      println(s"Restocked $qty of $item successfully.")
     } else {
-      println(s"Item $itemName does not exist in inventory.")
+      println(s"Item $item does not exist in the inventory.")
     }
   }
 
-  def sellItem(itemName: String, quantity: Int): Unit = {
-    val index = itemNames.indexOf(itemName)
+  def sellItem(item: String, qty: Int): Unit = {
+    var index = itemNames.indexOf(item)
     if (index >= 0) {
-      if (itemQuantities(index) >= quantity) {
-        itemQuantities(index) -= quantity
-        println(s"Sold $quantity of $itemName. Remaining quantity: ${itemQuantities(index)}")
+      if (itemQuantities(index) >= qty) {
+        itemQuantities(index) -= qty
+        println(s"Sold $qty of $item successfully.")
       } else {
-        println(s"Not enough quantity of $itemName to sell. Available quantity: ${itemQuantities(index)}")
+        println(s"Insufficient quantity of $item in the inventory.")
       }
     } else {
-      println(s"Item $itemName does not exist in inventory.")
+      println(s"Item $item does not exist in the inventory.")
     }
   }
 
   def main(args: Array[String]): Unit = {
+    restockItem("Brush", 50)
+    sellItem("Brush", 50)
     displayInventory()
-    restockItem("Apple", 10)
-    displayInventory()
-    sellItem("Banana", 15)
-    displayInventory()
-    sellItem("Orange", 25)
+
+    restockItem("Book", 30)
+    sellItem("Book", 20)
+    sellItem("Book", 50)
     displayInventory()
   }
 }

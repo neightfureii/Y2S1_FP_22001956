@@ -40,3 +40,620 @@ SLF4J(I): Actual provider is of type [scribe.slf4j.ScribeServiceProvider@278f8c4
 2024.07.09 00:30:16 INFO  shutting down Metals
 2024.07.09 00:30:16 INFO  Shut down connection with build server.
 2024.07.09 00:30:16 INFO  Exiting server
+2024.07.09 11:48:50 INFO  Started: Metals version 1.3.2 in folders 'D:\UCSC\2Yr 1Sem\FP\practical4' for client Visual Studio Code 1.91.0.
+SLF4J(W): Class path contains multiple SLF4J providers.
+SLF4J(W): Found provider [scribe.slf4j.ScribeServiceProvider@2704f5c4]
+SLF4J(W): Found provider [ch.qos.logback.classic.spi.LogbackServiceProvider@2a50bdd6]
+SLF4J(W): See https://www.slf4j.org/codes.html#multiple_bindings for an explanation.
+SLF4J(I): Actual provider is of type [scribe.slf4j.ScribeServiceProvider@2704f5c4]
+2024.07.09 11:48:50 WARN  Flyway upgrade recommended: H2 2.2.224 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.220.
+2024.07.09 11:48:51 INFO  Attempting to connect to the build server...
+2024.07.09 11:48:51 INFO  Running BSP server List(C:\Users\123\AppData\Local\Coursier\data\bin\.scala-cli.aux.exe, bsp, --json-options, D:\UCSC\2Yr 1Sem\FP\practical4\.scala-build\ide-options-v2.json, --json-launcher-options, D:\UCSC\2Yr 1Sem\FP\practical4\.scala-build\ide-launcher-options.json, --envs-file, D:\UCSC\2Yr 1Sem\FP\practical4\.scala-build\ide-envs.json, D:\UCSC\2Yr 1Sem\FP\practical4)
+2024.07.09 11:48:51 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at D:\UCSC\2Yr 1Sem\FP\practical4\.metals\bsp.trace.json or C:\Users\123\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.07.09 11:48:54 INFO  BSP server: Starting compilation server
+2024.07.09 11:49:02 INFO  time: Connected to build server in 11s
+2024.07.09 11:49:02 INFO  Connected to Build server: scala-cli v1.3.2
+2024.07.09 11:49:02 INFO  time: Imported build in 0.19s
+2024.07.09 11:49:06 INFO  time: indexed workspace in 3.83s
+Jul 09, 2024 11:49:42 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2024.07.09 11:50:08 INFO  Shutting down server
+2024.07.09 11:50:08 INFO  shutting down Metals
+2024.07.09 11:50:08 INFO  Shut down connection with build server.
+2024.07.09 11:50:08 INFO  Exiting server
+2024.07.10 23:36:49 INFO  Started: Metals version 1.3.2 in folders 'D:\UCSC\2Yr 1Sem\FP\practical4' for client Visual Studio Code 1.91.0.
+SLF4J(W): Class path contains multiple SLF4J providers.
+SLF4J(W): Found provider [scribe.slf4j.ScribeServiceProvider@f022db5]
+SLF4J(W): Found provider [ch.qos.logback.classic.spi.LogbackServiceProvider@1b871883]
+SLF4J(W): See https://www.slf4j.org/codes.html#multiple_bindings for an explanation.
+SLF4J(I): Actual provider is of type [scribe.slf4j.ScribeServiceProvider@f022db5]
+2024.07.10 23:36:49 WARN  Flyway upgrade recommended: H2 2.2.224 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.220.
+2024.07.10 23:36:51 INFO  no build target found for D:\UCSC\2Yr 1Sem\FP\practical4\q3.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.10 23:36:51 INFO  Attempting to connect to the build server...
+2024.07.10 23:36:51 INFO  Running BSP server List(C:\Users\123\AppData\Local\Coursier\data\bin\.scala-cli.aux.exe, bsp, --json-options, D:\UCSC\2Yr 1Sem\FP\practical4\.scala-build\ide-options-v2.json, --json-launcher-options, D:\UCSC\2Yr 1Sem\FP\practical4\.scala-build\ide-launcher-options.json, --envs-file, D:\UCSC\2Yr 1Sem\FP\practical4\.scala-build\ide-envs.json, D:\UCSC\2Yr 1Sem\FP\practical4)
+2024.07.10 23:36:53 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at D:\UCSC\2Yr 1Sem\FP\practical4\.metals\bsp.trace.json or C:\Users\123\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.07.10 23:36:55 INFO  BSP server: Starting compilation server
+2024.07.10 23:37:02 INFO  time: Connected to build server in 10s
+2024.07.10 23:37:02 INFO  Connected to Build server: scala-cli v1.3.2
+2024.07.10 23:37:02 INFO  time: Imported build in 0.21s
+2024.07.10 23:37:07 INFO  time: indexed workspace in 4.39s
+2024.07.10 23:44:53 INFO  Shutting down server
+2024.07.10 23:44:53 INFO  shutting down Metals
+2024.07.10 23:44:53 INFO  Shut down connection with build server.
+2024.07.10 23:44:53 INFO  Exiting server
+2024.07.11 09:18:05 INFO  Started: Metals version 1.3.2 in folders 'D:\UCSC\2Yr 1Sem\FP\practical4' for client Visual Studio Code 1.91.0.
+SLF4J(W): Class path contains multiple SLF4J providers.
+SLF4J(W): Found provider [scribe.slf4j.ScribeServiceProvider@f022db5]
+SLF4J(W): Found provider [ch.qos.logback.classic.spi.LogbackServiceProvider@1b871883]
+SLF4J(W): See https://www.slf4j.org/codes.html#multiple_bindings for an explanation.
+SLF4J(I): Actual provider is of type [scribe.slf4j.ScribeServiceProvider@f022db5]
+2024.07.11 09:18:05 WARN  Flyway upgrade recommended: H2 2.2.224 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.220.
+2024.07.11 09:18:08 INFO  no build target found for D:\UCSC\2Yr 1Sem\FP\practical4\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.11 09:18:08 INFO  Attempting to connect to the build server...
+2024.07.11 09:18:08 INFO  Running BSP server List(C:\Users\123\AppData\Local\Coursier\data\bin\.scala-cli.aux.exe, bsp, --json-options, D:\UCSC\2Yr 1Sem\FP\practical4\.scala-build\ide-options-v2.json, --json-launcher-options, D:\UCSC\2Yr 1Sem\FP\practical4\.scala-build\ide-launcher-options.json, --envs-file, D:\UCSC\2Yr 1Sem\FP\practical4\.scala-build\ide-envs.json, D:\UCSC\2Yr 1Sem\FP\practical4)
+2024.07.11 09:18:09 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at D:\UCSC\2Yr 1Sem\FP\practical4\.metals\bsp.trace.json or C:\Users\123\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.07.11 09:18:15 INFO  BSP server: Starting compilation server
+2024.07.11 09:18:25 INFO  time: Connected to build server in 16s
+2024.07.11 09:18:25 INFO  Connected to Build server: scala-cli v1.3.2
+2024.07.11 09:18:25 INFO  time: Imported build in 0.36s
+2024.07.11 09:18:33 INFO  time: indexed workspace in 7.8s
+2024.07.11 09:38:01 WARN  Could not find semantic tokens for: file:///D:/UCSC/2Yr%201Sem/FP/practical4/q1.scala
+2024.07.11 09:38:41 WARN  Could not find semantic tokens for: file:///D:/UCSC/2Yr%201Sem/FP/practical4/q1.scala
+2024.07.11 09:38:58 ERROR scalafmt: D:\UCSC\2Yr 1Sem\FP\practical4\q1.scala:1: error: [dialect scala3] ; expected but = found
+object q1 = Unit {
+          ^
+2024.07.11 09:38:58 INFO  compiling practical4_ff3ffe18cb (1 scala source)
+2024.07.11 09:39:00 INFO  time: compiled practical4_ff3ffe18cb in 2.23s
+2024.07.11 09:39:08 INFO  compiling practical4_ff3ffe18cb (1 scala source)
+2024.07.11 09:39:08 INFO  time: compiled practical4_ff3ffe18cb in 0.21s
+Jul 11, 2024 9:39:25 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 182
+Jul 11, 2024 9:39:27 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 190
+Jul 11, 2024 9:39:36 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 245
+Jul 11, 2024 9:39:37 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 253
+Jul 11, 2024 9:39:56 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 344
+Jul 11, 2024 9:39:59 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 358
+2024.07.11 09:40:00 INFO  compiling practical4_ff3ffe18cb (1 scala source)
+2024.07.11 09:40:02 INFO  time: compiled practical4_ff3ffe18cb in 1.49s
+Jul 11, 2024 9:41:12 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 703
+2024.07.11 10:11:11 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical4\q1.scala
+2024.07.11 10:11:11 INFO  compiling practical4_ff3ffe18cb (1 scala source)
+2024.07.11 10:11:14 INFO  time: compiled practical4_ff3ffe18cb in 2.64s
+2024.07.11 10:11:14 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical4\q1.scala
+2024.07.11 10:11:16 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical4\q1.scala
+2024.07.11 10:11:26 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical4\q1.scala
+2024.07.11 10:11:26 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical4\q1.scala
+2024.07.11 10:11:27 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical4\q1.scala
+2024.07.11 10:11:27 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical4\q1.scala
+2024.07.11 10:11:31 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical4\q1.scala
+2024.07.11 10:11:31 INFO  compiling practical4_ff3ffe18cb (1 scala source)
+2024.07.11 10:11:31 INFO  time: compiled practical4_ff3ffe18cb in 0.95s
+2024.07.11 10:11:32 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical4\q1.scala
+2024.07.11 10:11:45 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical4\q1.scala
+2024.07.11 10:11:46 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical4\q1.scala
+2024.07.11 10:11:49 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical4\q1.scala
+2024.07.11 10:11:50 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical4\q1.scala
+2024.07.11 10:11:51 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical4\q1.scala
+2024.07.11 10:11:51 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical4\q1.scala
+2024.07.11 10:11:52 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical4\q1.scala
+2024.07.11 10:11:53 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical4\q1.scala
+2024.07.11 10:11:54 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical4\q1.scala
+2024.07.11 10:12:14 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical4\q1.scala
+2024.07.11 10:12:17 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical4\q1.scala
+2024.07.11 10:12:18 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical4\q1.scala
+2024.07.11 10:12:18 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical4\q1.scala
+2024.07.11 10:12:19 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical4\q1.scala
+2024.07.11 10:12:21 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical4\q1.scala
+2024.07.11 10:12:21 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical4\q1.scala
+2024.07.11 10:12:22 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical4\q1.scala
+2024.07.11 10:12:23 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical4\q1.scala
+2024.07.11 10:12:24 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical4\q1.scala
+2024.07.11 10:12:24 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical4\q1.scala
+2024.07.11 10:12:26 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical4\q1.scala
+2024.07.11 10:12:28 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical4\q1.scala
+2024.07.11 10:12:29 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical4\q1.scala
+2024.07.11 10:12:30 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical4\q1.scala
+2024.07.11 10:12:30 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical4\q1.scala
+2024.07.11 10:12:31 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical4\q1.scala
+2024.07.11 10:12:32 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical4\q1.scala
+2024.07.11 10:12:33 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical4\q1.scala
+2024.07.11 10:12:34 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical4\q1.scala
+2024.07.11 10:12:34 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical4\q1.scala
+2024.07.11 10:12:40 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical4\q1.scala
+2024.07.11 10:12:42 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical4\q1.scala
+2024.07.11 10:12:44 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical4\q1.scala
+2024.07.11 10:12:46 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical4\q1.scala
+2024.07.11 10:12:47 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical4\q1.scala
+2024.07.11 10:12:48 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical4\q1.scala
+2024.07.11 10:12:48 ERROR Failed to tokenize input for semantic tokens for D:\UCSC\2Yr 1Sem\FP\practical4\q1.scala
+scala.meta.tokenizers.TokenizeException: <input>:8: error: unclosed string interpolation
+      println(s"$");
+                ^
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:32)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:32)
+	at scala.meta.internal.tokenizers.LegacyScanner.getStringPart(LegacyScanner.scala:605)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchDoubleQuote$1(LegacyScanner.scala:347)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchToken(LegacyScanner.scala:363)
+	at scala.meta.internal.tokenizers.LegacyScanner.nextToken(LegacyScanner.scala:201)
+	at scala.meta.internal.tokenizers.LegacyScanner.foreach(LegacyScanner.scala:912)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.uncachedTokenize(ScalametaTokenizer.scala:23)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.$anonfun$tokenize$1(ScalametaTokenizer.scala:17)
+	at scala.collection.concurrent.TrieMap.getOrElseUpdate(TrieMap.scala:960)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.tokenize(ScalametaTokenizer.scala:17)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer$$anon$2.apply(ScalametaTokenizer.scala:322)
+	at scala.meta.tokenizers.Api$XtensionTokenizeDialectInput.tokenize(Api.scala:22)
+	at scala.meta.tokenizers.Api$XtensionTokenizeInputLike.tokenize(Api.scala:13)
+	at scala.meta.internal.metals.SemanticTokensProvider$.getTokens(SemanticTokensProvider.scala:28)
+	at scala.meta.internal.metals.SemanticTokensProvider$.provide(SemanticTokensProvider.scala:89)
+	at scala.meta.internal.metals.Compilers.$anonfun$semanticTokens$3(Compilers.scala:545)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.lang.Thread.run(Thread.java:1570)
+
+2024.07.11 10:12:51 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical4\q1.scala
+2024.07.11 10:12:52 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical4\q1.scala
+2024.07.11 10:12:52 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical4\q1.scala
+2024.07.11 10:12:54 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical4\q1.scala
+2024.07.11 10:12:55 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical4\q1.scala
+2024.07.11 10:12:57 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical4\q1.scala
+2024.07.11 10:13:01 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical4\q1.scala
+2024.07.11 10:13:08 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical4\q1.scala
+2024.07.11 10:13:08 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical4\q1.scala
+2024.07.11 10:13:09 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical4\q1.scala
+2024.07.11 10:13:13 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical4\q1.scala
+2024.07.11 10:13:15 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical4\q1.scala
+2024.07.11 10:13:16 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical4\q1.scala
+2024.07.11 10:13:17 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical4\q1.scala
+2024.07.11 10:13:20 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical4\q1.scala
+2024.07.11 10:13:21 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical4\q1.scala
+2024.07.11 10:13:24 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical4\q1.scala
+2024.07.11 10:13:26 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical4\q1.scala
+2024.07.11 10:13:26 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical4\q1.scala
+2024.07.11 10:13:28 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical4\q1.scala
+2024.07.11 10:13:29 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical4\q1.scala
+2024.07.11 10:13:29 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical4\q1.scala
+2024.07.11 10:13:34 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical4\q1.scala
+2024.07.11 10:13:35 INFO  compiling practical4_ff3ffe18cb (1 scala source)
+2024.07.11 10:13:35 INFO  time: compiled practical4_ff3ffe18cb in 0.91s
+2024.07.11 10:13:36 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical4\q1.scala
+2024.07.11 10:14:15 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical4\q1.scala
+2024.07.11 10:14:15 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical4\q1.scala
+2024.07.11 10:14:18 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical4\q1.scala
+2024.07.11 10:14:19 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical4\q1.scala
+2024.07.11 10:14:19 INFO  compiling practical4_ff3ffe18cb (1 scala source)
+2024.07.11 10:14:19 INFO  time: compiled practical4_ff3ffe18cb in 0.6s
+2024.07.11 10:14:20 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical4\q1.scala
+2024.07.11 10:14:26 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical4\q1.scala
+2024.07.11 10:14:38 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical4\q1.scala
+2024.07.11 10:40:18 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical4\q1.scala
+2024.07.11 10:40:21 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical4\q1.scala
+2024.07.11 10:40:22 INFO  compiling practical4_ff3ffe18cb (1 scala source)
+2024.07.11 10:40:23 INFO  time: compiled practical4_ff3ffe18cb in 1.06s
+2024.07.11 10:40:24 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical4\q1.scala
+2024.07.11 10:40:39 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical4\q1.scala
+2024.07.11 10:40:42 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical4\q1.scala
+2024.07.11 10:40:44 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical4\q1.scala
+2024.07.11 10:40:47 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical4\q1.scala
+2024.07.11 10:40:55 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical4\q1.scala
+2024.07.11 10:40:56 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical4\q1.scala
+2024.07.11 10:40:58 INFO  compiling practical4_ff3ffe18cb (1 scala source)
+2024.07.11 10:40:58 INFO  time: compiled practical4_ff3ffe18cb in 0.51s
+2024.07.11 10:40:58 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical4\q1.scala
+2024.07.11 10:41:04 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical4\q1.scala
+2024.07.11 10:41:05 INFO  compiling practical4_ff3ffe18cb (1 scala source)
+2024.07.11 10:41:05 INFO  time: compiled practical4_ff3ffe18cb in 0.59s
+2024.07.11 10:41:06 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical4\q1.scala
+2024.07.11 10:41:17 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical4\q1.scala
+Jul 11, 2024 10:41:18 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1777
+2024.07.11 10:41:18 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical4\q1.scala
+2024.07.11 10:41:23 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical4\q1.scala
+2024.07.11 10:41:23 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical4\q1.scala
+2024.07.11 10:41:25 INFO  compiling practical4_ff3ffe18cb (1 scala source)
+2024.07.11 10:41:25 INFO  time: compiled practical4_ff3ffe18cb in 0.2s
+2024.07.11 10:41:25 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical4\q1.scala
+2024.07.11 10:41:40 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical4\q1.scala
+2024.07.11 10:41:41 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical4\q1.scala
+2024.07.11 10:41:41 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical4\q1.scala
+2024.07.11 10:41:43 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical4\q1.scala
+2024.07.11 10:41:47 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical4\q1.scala
+2024.07.11 10:41:48 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical4\q1.scala
+2024.07.11 10:41:49 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical4\q1.scala
+2024.07.11 10:41:50 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical4\q1.scala
+2024.07.11 10:41:51 INFO  compiling practical4_ff3ffe18cb (1 scala source)
+2024.07.11 10:41:51 INFO  time: compiled practical4_ff3ffe18cb in 0.71s
+2024.07.11 10:42:35 INFO  compiling practical4_ff3ffe18cb (1 scala source)
+2024.07.11 10:42:36 INFO  time: compiled practical4_ff3ffe18cb in 1.26s
+Jul 11, 2024 10:43:00 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1929
+2024.07.11 10:43:03 INFO  compiling practical4_ff3ffe18cb (1 scala source)
+2024.07.11 10:43:03 INFO  time: compiled practical4_ff3ffe18cb in 0.54s
+Jul 11, 2024 10:43:16 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1953
+2024.07.11 10:43:19 INFO  compiling practical4_ff3ffe18cb (1 scala source)
+2024.07.11 10:43:19 INFO  time: compiled practical4_ff3ffe18cb in 0.58s
+2024.07.11 10:43:47 INFO  compiling practical4_ff3ffe18cb (1 scala source)
+2024.07.11 10:43:47 INFO  time: compiled practical4_ff3ffe18cb in 0.44s
+2024.07.11 10:43:57 INFO  compiling practical4_ff3ffe18cb (1 scala source)
+2024.07.11 10:43:57 INFO  time: compiled practical4_ff3ffe18cb in 0.33s
+Jul 11, 2024 10:44:14 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2071
+2024.07.11 10:44:17 INFO  compiling practical4_ff3ffe18cb (1 scala source)
+2024.07.11 10:44:17 INFO  time: compiled practical4_ff3ffe18cb in 0.4s
+Jul 11, 2024 10:45:07 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2193
+2024.07.11 10:45:59 ERROR scalafmt: D:\UCSC\2Yr 1Sem\FP\practical4\q1.scala:12: error: [dialect scala3] is not a valid refinement declaration
+    var index: Int = item.indexOf() 
+    ^
+2024.07.11 10:45:59 INFO  compiling practical4_ff3ffe18cb (1 scala source)
+2024.07.11 10:45:59 INFO  time: compiled practical4_ff3ffe18cb in 0.17s
+2024.07.11 10:46:15 INFO  compiling practical4_ff3ffe18cb (1 scala source)
+2024.07.11 10:46:15 INFO  time: compiled practical4_ff3ffe18cb in 0.24s
+2024.07.11 10:46:35 INFO  compiling practical4_ff3ffe18cb (1 scala source)
+2024.07.11 10:46:35 INFO  time: compiled practical4_ff3ffe18cb in 0.4s
+2024.07.11 10:48:01 ERROR Failed to tokenize input for semantic tokens for D:\UCSC\2Yr 1Sem\FP\practical4\q1.scala
+scala.meta.tokenizers.TokenizeException: <input>:15: error: unclosed string interpolation
+      println(s"Restocked $")
+                ^
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:32)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:32)
+	at scala.meta.internal.tokenizers.LegacyScanner.getStringPart(LegacyScanner.scala:605)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchDoubleQuote$1(LegacyScanner.scala:347)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchToken(LegacyScanner.scala:363)
+	at scala.meta.internal.tokenizers.LegacyScanner.nextToken(LegacyScanner.scala:201)
+	at scala.meta.internal.tokenizers.LegacyScanner.foreach(LegacyScanner.scala:912)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.uncachedTokenize(ScalametaTokenizer.scala:23)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.$anonfun$tokenize$1(ScalametaTokenizer.scala:17)
+	at scala.collection.concurrent.TrieMap.getOrElseUpdate(TrieMap.scala:960)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.tokenize(ScalametaTokenizer.scala:17)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer$$anon$2.apply(ScalametaTokenizer.scala:322)
+	at scala.meta.tokenizers.Api$XtensionTokenizeDialectInput.tokenize(Api.scala:22)
+	at scala.meta.tokenizers.Api$XtensionTokenizeInputLike.tokenize(Api.scala:13)
+	at scala.meta.internal.metals.SemanticTokensProvider$.getTokens(SemanticTokensProvider.scala:28)
+	at scala.meta.internal.metals.SemanticTokensProvider$.provide(SemanticTokensProvider.scala:89)
+	at scala.meta.internal.metals.Compilers.$anonfun$semanticTokens$3(Compilers.scala:545)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.lang.Thread.run(Thread.java:1570)
+
+2024.07.11 10:48:06 ERROR Failed to tokenize input for semantic tokens for D:\UCSC\2Yr 1Sem\FP\practical4\q1.scala
+scala.meta.tokenizers.TokenizeException: <input>:15: error: unclosed string interpolation
+      println(s"Restocked $qty of $")
+                              ^
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:32)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:32)
+	at scala.meta.internal.tokenizers.LegacyScanner.getStringPart(LegacyScanner.scala:605)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchToken(LegacyScanner.scala:239)
+	at scala.meta.internal.tokenizers.LegacyScanner.nextToken(LegacyScanner.scala:201)
+	at scala.meta.internal.tokenizers.LegacyScanner.foreach(LegacyScanner.scala:912)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.uncachedTokenize(ScalametaTokenizer.scala:23)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.$anonfun$tokenize$1(ScalametaTokenizer.scala:17)
+	at scala.collection.concurrent.TrieMap.getOrElseUpdate(TrieMap.scala:960)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.tokenize(ScalametaTokenizer.scala:17)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer$$anon$2.apply(ScalametaTokenizer.scala:322)
+	at scala.meta.tokenizers.Api$XtensionTokenizeDialectInput.tokenize(Api.scala:22)
+	at scala.meta.tokenizers.Api$XtensionTokenizeInputLike.tokenize(Api.scala:13)
+	at scala.meta.internal.metals.SemanticTokensProvider$.getTokens(SemanticTokensProvider.scala:28)
+	at scala.meta.internal.metals.SemanticTokensProvider$.provide(SemanticTokensProvider.scala:89)
+	at scala.meta.internal.metals.Compilers.$anonfun$semanticTokens$3(Compilers.scala:545)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.lang.Thread.run(Thread.java:1570)
+
+2024.07.11 10:48:44 ERROR Failed to tokenize input for semantic tokens for D:\UCSC\2Yr 1Sem\FP\practical4\q1.scala
+scala.meta.tokenizers.TokenizeException: <input>:17: error: unclosed string interpolation
+      println(s"Item $")
+                ^
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:32)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:32)
+	at scala.meta.internal.tokenizers.LegacyScanner.getStringPart(LegacyScanner.scala:605)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchDoubleQuote$1(LegacyScanner.scala:347)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchToken(LegacyScanner.scala:363)
+	at scala.meta.internal.tokenizers.LegacyScanner.nextToken(LegacyScanner.scala:201)
+	at scala.meta.internal.tokenizers.LegacyScanner.foreach(LegacyScanner.scala:912)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.uncachedTokenize(ScalametaTokenizer.scala:23)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.$anonfun$tokenize$1(ScalametaTokenizer.scala:17)
+	at scala.collection.concurrent.TrieMap.getOrElseUpdate(TrieMap.scala:960)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.tokenize(ScalametaTokenizer.scala:17)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer$$anon$2.apply(ScalametaTokenizer.scala:322)
+	at scala.meta.tokenizers.Api$XtensionTokenizeDialectInput.tokenize(Api.scala:22)
+	at scala.meta.tokenizers.Api$XtensionTokenizeInputLike.tokenize(Api.scala:13)
+	at scala.meta.internal.metals.SemanticTokensProvider$.getTokens(SemanticTokensProvider.scala:28)
+	at scala.meta.internal.metals.SemanticTokensProvider$.provide(SemanticTokensProvider.scala:89)
+	at scala.meta.internal.metals.Compilers.$anonfun$semanticTokens$3(Compilers.scala:545)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.lang.Thread.run(Thread.java:1570)
+
+2024.07.11 10:49:00 INFO  compiling practical4_ff3ffe18cb (1 scala source)
+2024.07.11 10:49:00 INFO  time: compiled practical4_ff3ffe18cb in 0.54s
+Jul 11, 2024 10:49:35 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3290
+2024.07.11 10:59:31 ERROR Failed to tokenize input for semantic tokens for D:\UCSC\2Yr 1Sem\FP\practical4\q1.scala
+scala.meta.tokenizers.TokenizeException: <input>:26: error: unclosed string interpolation
+      println(s"Sold $")
+                ^
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:32)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:32)
+	at scala.meta.internal.tokenizers.LegacyScanner.getStringPart(LegacyScanner.scala:605)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchDoubleQuote$1(LegacyScanner.scala:347)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchToken(LegacyScanner.scala:363)
+	at scala.meta.internal.tokenizers.LegacyScanner.nextToken(LegacyScanner.scala:201)
+	at scala.meta.internal.tokenizers.LegacyScanner.foreach(LegacyScanner.scala:912)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.uncachedTokenize(ScalametaTokenizer.scala:23)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.$anonfun$tokenize$1(ScalametaTokenizer.scala:17)
+	at scala.collection.concurrent.TrieMap.getOrElseUpdate(TrieMap.scala:960)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.tokenize(ScalametaTokenizer.scala:17)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer$$anon$2.apply(ScalametaTokenizer.scala:322)
+	at scala.meta.tokenizers.Api$XtensionTokenizeDialectInput.tokenize(Api.scala:22)
+	at scala.meta.tokenizers.Api$XtensionTokenizeInputLike.tokenize(Api.scala:13)
+	at scala.meta.internal.metals.SemanticTokensProvider$.getTokens(SemanticTokensProvider.scala:28)
+	at scala.meta.internal.metals.SemanticTokensProvider$.provide(SemanticTokensProvider.scala:89)
+	at scala.meta.internal.metals.Compilers.$anonfun$semanticTokens$3(Compilers.scala:545)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.lang.Thread.run(Thread.java:1570)
+
+2024.07.11 10:59:35 ERROR Failed to tokenize input for semantic tokens for D:\UCSC\2Yr 1Sem\FP\practical4\q1.scala
+scala.meta.tokenizers.TokenizeException: <input>:26: error: unclosed string interpolation
+      println(s"Sold $qty of $")
+                         ^
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:32)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:32)
+	at scala.meta.internal.tokenizers.LegacyScanner.getStringPart(LegacyScanner.scala:605)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchToken(LegacyScanner.scala:239)
+	at scala.meta.internal.tokenizers.LegacyScanner.nextToken(LegacyScanner.scala:201)
+	at scala.meta.internal.tokenizers.LegacyScanner.foreach(LegacyScanner.scala:912)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.uncachedTokenize(ScalametaTokenizer.scala:23)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.$anonfun$tokenize$1(ScalametaTokenizer.scala:17)
+	at scala.collection.concurrent.TrieMap.getOrElseUpdate(TrieMap.scala:960)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.tokenize(ScalametaTokenizer.scala:17)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer$$anon$2.apply(ScalametaTokenizer.scala:322)
+	at scala.meta.tokenizers.Api$XtensionTokenizeDialectInput.tokenize(Api.scala:22)
+	at scala.meta.tokenizers.Api$XtensionTokenizeInputLike.tokenize(Api.scala:13)
+	at scala.meta.internal.metals.SemanticTokensProvider$.getTokens(SemanticTokensProvider.scala:28)
+	at scala.meta.internal.metals.SemanticTokensProvider$.provide(SemanticTokensProvider.scala:89)
+	at scala.meta.internal.metals.Compilers.$anonfun$semanticTokens$3(Compilers.scala:545)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.lang.Thread.run(Thread.java:1570)
+
+Jul 11, 2024 11:01:02 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4330
+2024.07.11 11:01:52 ERROR Failed to tokenize input for semantic tokens for D:\UCSC\2Yr 1Sem\FP\practical4\q1.scala
+scala.meta.tokenizers.TokenizeException: <input>:32: error: unclosed string interpolation
+      println(s"$")
+                ^
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:32)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:32)
+	at scala.meta.internal.tokenizers.LegacyScanner.getStringPart(LegacyScanner.scala:605)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchDoubleQuote$1(LegacyScanner.scala:347)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchToken(LegacyScanner.scala:363)
+	at scala.meta.internal.tokenizers.LegacyScanner.nextToken(LegacyScanner.scala:201)
+	at scala.meta.internal.tokenizers.LegacyScanner.foreach(LegacyScanner.scala:912)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.uncachedTokenize(ScalametaTokenizer.scala:23)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.$anonfun$tokenize$1(ScalametaTokenizer.scala:17)
+	at scala.collection.concurrent.TrieMap.getOrElseUpdate(TrieMap.scala:960)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.tokenize(ScalametaTokenizer.scala:17)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer$$anon$2.apply(ScalametaTokenizer.scala:322)
+	at scala.meta.tokenizers.Api$XtensionTokenizeDialectInput.tokenize(Api.scala:22)
+	at scala.meta.tokenizers.Api$XtensionTokenizeInputLike.tokenize(Api.scala:13)
+	at scala.meta.internal.metals.SemanticTokensProvider$.getTokens(SemanticTokensProvider.scala:28)
+	at scala.meta.internal.metals.SemanticTokensProvider$.provide(SemanticTokensProvider.scala:89)
+	at scala.meta.internal.metals.Compilers.$anonfun$semanticTokens$3(Compilers.scala:545)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.lang.Thread.run(Thread.java:1570)
+
+Jul 11, 2024 11:01:59 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4655
+2024.07.11 11:02:30 ERROR Failed to tokenize input for semantic tokens for D:\UCSC\2Yr 1Sem\FP\practical4\q1.scala
+scala.meta.tokenizers.TokenizeException: <input>:29: error: unclosed string literal
+        println(s"Insufficient quantity of item "$item in the inventory.")
+                                                                        ^
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:32)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:32)
+	at scala.meta.internal.tokenizers.LegacyScanner.getStringLit(LegacyScanner.scala:509)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchDoubleQuote$1(LegacyScanner.scala:361)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchToken(LegacyScanner.scala:363)
+	at scala.meta.internal.tokenizers.LegacyScanner.nextToken(LegacyScanner.scala:201)
+	at scala.meta.internal.tokenizers.LegacyScanner.foreach(LegacyScanner.scala:912)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.uncachedTokenize(ScalametaTokenizer.scala:23)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.$anonfun$tokenize$1(ScalametaTokenizer.scala:17)
+	at scala.collection.concurrent.TrieMap.getOrElseUpdate(TrieMap.scala:960)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.tokenize(ScalametaTokenizer.scala:17)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer$$anon$2.apply(ScalametaTokenizer.scala:322)
+	at scala.meta.tokenizers.Api$XtensionTokenizeDialectInput.tokenize(Api.scala:22)
+	at scala.meta.tokenizers.Api$XtensionTokenizeInputLike.tokenize(Api.scala:13)
+	at scala.meta.internal.metals.SemanticTokensProvider$.getTokens(SemanticTokensProvider.scala:28)
+	at scala.meta.internal.metals.SemanticTokensProvider$.provide(SemanticTokensProvider.scala:89)
+	at scala.meta.internal.metals.Compilers.$anonfun$semanticTokens$3(Compilers.scala:545)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.lang.Thread.run(Thread.java:1570)
+
+2024.07.11 11:02:33 ERROR Failed to tokenize input for semantic tokens for D:\UCSC\2Yr 1Sem\FP\practical4\q1.scala
+scala.meta.tokenizers.TokenizeException: <input>:29: error: unclosed string literal
+        println(s"Insufficient quantity of item "$item in the inventory.")
+                                                                        ^
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:32)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:32)
+	at scala.meta.internal.tokenizers.LegacyScanner.getStringLit(LegacyScanner.scala:509)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchDoubleQuote$1(LegacyScanner.scala:361)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchToken(LegacyScanner.scala:363)
+	at scala.meta.internal.tokenizers.LegacyScanner.nextToken(LegacyScanner.scala:201)
+	at scala.meta.internal.tokenizers.LegacyScanner.foreach(LegacyScanner.scala:912)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.uncachedTokenize(ScalametaTokenizer.scala:23)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.$anonfun$tokenize$1(ScalametaTokenizer.scala:17)
+	at scala.collection.concurrent.TrieMap.getOrElseUpdate(TrieMap.scala:960)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.tokenize(ScalametaTokenizer.scala:17)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer$$anon$2.apply(ScalametaTokenizer.scala:322)
+	at scala.meta.tokenizers.Api$XtensionTokenizeDialectInput.tokenize(Api.scala:22)
+	at scala.meta.tokenizers.Api$XtensionTokenizeInputLike.tokenize(Api.scala:13)
+	at scala.meta.internal.metals.SemanticTokensProvider$.getTokens(SemanticTokensProvider.scala:28)
+	at scala.meta.internal.metals.SemanticTokensProvider$.provide(SemanticTokensProvider.scala:89)
+	at scala.meta.internal.metals.Compilers.$anonfun$semanticTokens$3(Compilers.scala:545)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.lang.Thread.run(Thread.java:1570)
+
+2024.07.11 11:02:48 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical4\q1.scala
+2024.07.11 11:02:48 INFO  compiling practical4_ff3ffe18cb (1 scala source)
+2024.07.11 11:02:48 INFO  time: compiled practical4_ff3ffe18cb in 0.48s
+2024.07.11 11:03:28 INFO  compiling practical4_ff3ffe18cb (1 scala source)
+2024.07.11 11:03:28 INFO  time: compiled practical4_ff3ffe18cb in 0.5s
+Jul 11, 2024 11:03:43 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4985
+2024.07.11 11:03:45 INFO  compiling practical4_ff3ffe18cb (1 scala source)
+2024.07.11 11:03:45 INFO  time: compiled practical4_ff3ffe18cb in 0.4s
+Jul 11, 2024 11:04:01 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 5001
+2024.07.11 11:04:09 INFO  compiling practical4_ff3ffe18cb (1 scala source)
+2024.07.11 11:04:09 INFO  time: compiled practical4_ff3ffe18cb in 0.37s
+2024.07.11 11:04:31 INFO  compiling practical4_ff3ffe18cb (1 scala source)
+2024.07.11 11:04:31 INFO  time: compiled practical4_ff3ffe18cb in 0.36s
+2024.07.11 11:04:46 INFO  compiling practical4_ff3ffe18cb (1 scala source)
+2024.07.11 11:04:46 INFO  time: compiled practical4_ff3ffe18cb in 0.39s
+Jul 11, 2024 11:05:04 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 5096
+2024.07.11 11:05:06 INFO  compiling practical4_ff3ffe18cb (1 scala source)
+2024.07.11 11:05:06 INFO  time: compiled practical4_ff3ffe18cb in 0.31s
+2024.07.11 11:06:48 INFO  compiling practical4_ff3ffe18cb (1 scala source)
+2024.07.11 11:06:48 INFO  time: compiled practical4_ff3ffe18cb in 0.35s
+2024.07.11 11:07:38 INFO  compiling practical4_ff3ffe18cb (1 scala source)
+2024.07.11 11:07:38 INFO  time: compiled practical4_ff3ffe18cb in 0.42s
+2024.07.11 11:08:25 WARN  Could not find semantic tokens for: file:///D:/UCSC/2Yr%201Sem/FP/practical4/q2.scala
+2024.07.11 11:08:49 WARN  Could not find semantic tokens for: file:///D:/UCSC/2Yr%201Sem/FP/practical4/q2.scala
+2024.07.11 11:08:49 WARN  Could not find semantic tokens for: file:///D:/UCSC/2Yr%201Sem/FP/practical4/q2.scala
+2024.07.11 11:08:50 WARN  Could not find semantic tokens for: file:///D:/UCSC/2Yr%201Sem/FP/practical4/q2.scala
+2024.07.11 14:49:50 INFO  compiling practical4_ff3ffe18cb (1 scala source)
+2024.07.11 14:49:50 INFO  time: compiled practical4_ff3ffe18cb in 0.23s
+2024.07.11 14:52:21 INFO  Started: Metals version 1.3.2 in folders 'D:\UCSC\2Yr 1Sem\FP\practical4' for client Visual Studio Code 1.91.0.
+SLF4J(W): Class path contains multiple SLF4J providers.
+SLF4J(W): Found provider [scribe.slf4j.ScribeServiceProvider@32ac6e59]
+SLF4J(W): Found provider [ch.qos.logback.classic.spi.LogbackServiceProvider@4c5385e1]
+SLF4J(W): See https://www.slf4j.org/codes.html#multiple_bindings for an explanation.
+SLF4J(I): Actual provider is of type [scribe.slf4j.ScribeServiceProvider@32ac6e59]
+2024.07.11 14:52:26 WARN  Flyway upgrade recommended: H2 2.2.224 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.220.
+2024.07.11 14:52:29 INFO  no build target found for D:\UCSC\2Yr 1Sem\FP\practical4\q2.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.11 14:52:30 INFO  Attempting to connect to the build server...
+2024.07.11 14:52:30 INFO  Running BSP server List(C:\Users\123\AppData\Local\Coursier\data\bin\.scala-cli.aux.exe, bsp, --json-options, D:\UCSC\2Yr 1Sem\FP\practical4\.scala-build\ide-options-v2.json, --json-launcher-options, D:\UCSC\2Yr 1Sem\FP\practical4\.scala-build\ide-launcher-options.json, --envs-file, D:\UCSC\2Yr 1Sem\FP\practical4\.scala-build\ide-envs.json, D:\UCSC\2Yr 1Sem\FP\practical4)
+2024.07.11 14:52:34 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at D:\UCSC\2Yr 1Sem\FP\practical4\.metals\bsp.trace.json or C:\Users\123\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.07.11 14:52:57 INFO  BSP server: Starting compilation server
+2024.07.11 14:53:01 INFO  no build target found for D:\UCSC\2Yr 1Sem\FP\practical4\q2.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.11 14:53:01 INFO  no build target found for D:\UCSC\2Yr 1Sem\FP\practical4\q2.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.11 14:53:08 INFO  time: Connected to build server in 38s
+2024.07.11 14:53:08 INFO  Connected to Build server: scala-cli v1.3.2
+2024.07.11 14:53:09 INFO  time: Imported build in 0.15s
+2024.07.11 14:53:13 INFO  time: indexed workspace in 3.99s
+Jul 11, 2024 2:56:42 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 748
+2024.07.11 14:58:01 INFO  compiling practical4_ff3ffe18cb (1 scala source)
+2024.07.11 14:58:06 INFO  time: compiled practical4_ff3ffe18cb in 4.74s
+2024.07.11 14:59:05 INFO  compiling practical4_ff3ffe18cb (1 scala source)
+2024.07.11 14:59:05 INFO  time: compiled practical4_ff3ffe18cb in 0.5s
+2024.07.11 14:59:06 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical4\q2.scala
+2024.07.11 14:59:08 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical4\q2.scala
+2024.07.11 14:59:08 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical4\q2.scala
+2024.07.11 14:59:08 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical4\q2.scala
+2024.07.11 14:59:10 INFO  compiling practical4_ff3ffe18cb (1 scala source)
+2024.07.11 14:59:10 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical4\q2.scala
+2024.07.11 14:59:10 INFO  time: compiled practical4_ff3ffe18cb in 0.28s
+2024.07.11 14:59:10 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical4\q2.scala
+2024.07.11 14:59:14 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical4\q2.scala
+Jul 11, 2024 3:03:34 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1386
+2024.07.11 15:04:00 INFO  compiling practical4_ff3ffe18cb (1 scala source)
+2024.07.11 15:04:02 INFO  time: compiled practical4_ff3ffe18cb in 1.33s
+2024.07.11 15:04:24 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical4\q2.scala
+2024.07.11 15:04:24 INFO  compiling practical4_ff3ffe18cb (1 scala source)
+2024.07.11 15:04:24 INFO  time: compiled practical4_ff3ffe18cb in 0.68s
+2024.07.11 15:04:53 WARN  Could not find semantic tokens for: file:///D:/UCSC/2Yr%201Sem/FP/practical4/q3.scala
+2024.07.11 15:04:57 WARN  Could not find semantic tokens for: file:///D:/UCSC/2Yr%201Sem/FP/practical4/q3.scala
+2024.07.11 15:04:57 WARN  Could not find semantic tokens for: file:///D:/UCSC/2Yr%201Sem/FP/practical4/q3.scala
+2024.07.11 15:05:06 WARN  Could not find semantic tokens for: file:///D:/UCSC/2Yr%201Sem/FP/practical4/q3.scala
+2024.07.11 15:05:06 WARN  Could not find semantic tokens for: file:///D:/UCSC/2Yr%201Sem/FP/practical4/q3.scala
+2024.07.11 15:05:06 WARN  Could not find semantic tokens for: file:///D:/UCSC/2Yr%201Sem/FP/practical4/q3.scala
+Jul 11, 2024 3:05:53 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1827
+2024.07.11 15:07:00 ERROR scalafmt: D:\UCSC\2Yr 1Sem\FP\practical4\q3.scala:3: error: [dialect scala3] illegal start of declaration (possible cause: missing `=' in front of current method body)
+    return (input.toUpperCase());
+    ^
+2024.07.11 15:07:00 INFO  compiling practical4_ff3ffe18cb (1 scala source)
+2024.07.11 15:07:00 INFO  time: compiled practical4_ff3ffe18cb in 0.18s
+2024.07.11 15:07:08 INFO  compiling practical4_ff3ffe18cb (1 scala source)
+2024.07.11 15:07:08 INFO  time: compiled practical4_ff3ffe18cb in 0.42s
+2024.07.11 15:07:40 INFO  compiling practical4_ff3ffe18cb (1 scala source)
+2024.07.11 15:07:40 INFO  time: compiled practical4_ff3ffe18cb in 0.49s
+2024.07.11 15:08:54 INFO  compiling practical4_ff3ffe18cb (1 scala source)
+2024.07.11 15:08:54 INFO  time: compiled practical4_ff3ffe18cb in 0.32s
+Jul 11, 2024 3:12:18 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report D:\UCSC\2Yr 1Sem\FP\practical4\.metals\.reports\metals-full\2024-07-11\r_compiler-error_(practical4_ff3ffe18cb)_15-12-18-637.md
+Jul 11, 2024 3:16:18 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4909
+Jul 11, 2024 3:17:16 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 5343
+2024.07.11 15:17:34 INFO  compiling practical4_ff3ffe18cb (1 scala source)
+2024.07.11 15:17:35 INFO  time: compiled practical4_ff3ffe18cb in 1.22s
+2024.07.11 15:20:13 INFO  compiling practical4_ff3ffe18cb (1 scala source)
+2024.07.11 15:20:13 INFO  time: compiled practical4_ff3ffe18cb in 0.71s
+2024.07.11 15:22:14 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical4\q3.scala
+2024.07.11 15:22:14 INFO  compiling practical4_ff3ffe18cb (1 scala source)
+2024.07.11 15:22:14 INFO  time: compiled practical4_ff3ffe18cb in 0.65s
+2024.07.11 15:22:51 INFO  compiling practical4_ff3ffe18cb (1 scala source)
+2024.07.11 15:22:51 INFO  time: compiled practical4_ff3ffe18cb in 0.51s
+2024.07.11 15:23:45 INFO  Shutting down server
+2024.07.11 15:23:45 INFO  shutting down Metals
+2024.07.11 15:23:45 INFO  Shut down connection with build server.
+2024.07.11 15:23:45 INFO  Exiting server
