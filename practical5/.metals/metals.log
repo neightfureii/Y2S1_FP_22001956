@@ -1,0 +1,1770 @@
+2024.07.15 21:37:35 INFO  Started: Metals version 1.3.3 in folders 'D:\UCSC\2Yr 1Sem\FP\practical5' for client Visual Studio Code 1.91.1.
+SLF4J(W): Class path contains multiple SLF4J providers.
+SLF4J(W): Found provider [scribe.slf4j.ScribeServiceProvider@4c107cfb]
+SLF4J(W): Found provider [ch.qos.logback.classic.spi.LogbackServiceProvider@4e86f271]
+SLF4J(W): See https://www.slf4j.org/codes.html#multiple_bindings for an explanation.
+SLF4J(I): Actual provider is of type [scribe.slf4j.ScribeServiceProvider@4c107cfb]
+2024.07.15 21:37:36 WARN  Flyway upgrade recommended: H2 2.2.224 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.220.
+Jul 15, 2024 9:37:38 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1
+Jul 15, 2024 9:37:38 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 6
+Jul 15, 2024 9:37:38 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2
+2024.07.15 21:37:38 INFO  no build target found for D:\UCSC\2Yr 1Sem\FP\practical5\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.15 21:37:48 INFO  Running List(C:\Users\123\AppData\Local\Coursier\data\bin\scala-cli.BAT, setup-ide, D:\UCSC\2Yr 1Sem\FP\practical5)
+2024.07.15 21:37:48 INFO  Attempting to connect to the build server...
+2024.07.15 21:37:48 INFO  Running BSP server List(C:\Users\123\AppData\Local\Coursier\data\bin\.scala-cli.aux.exe, bsp, --json-options, D:\UCSC\2Yr 1Sem\FP\practical5\.scala-build\ide-options-v2.json, --json-launcher-options, D:\UCSC\2Yr 1Sem\FP\practical5\.scala-build\ide-launcher-options.json, --envs-file, D:\UCSC\2Yr 1Sem\FP\practical5\.scala-build\ide-envs.json, D:\UCSC\2Yr 1Sem\FP\practical5)
+2024.07.15 21:37:48 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at D:\UCSC\2Yr 1Sem\FP\practical5\.metals\bsp.trace.json or C:\Users\123\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.07.15 21:37:51 INFO  BSP server: Starting compilation server
+2024.07.15 21:37:56 INFO  time: Connected to build server in 8.15s
+2024.07.15 21:37:56 INFO  Connected to Build server: scala-cli v1.3.2
+2024.07.15 21:37:56 INFO  time: Imported build in 0.32s
+2024.07.15 21:37:57 INFO  running doctor check
+2024.07.15 21:37:57 INFO  java targets: practical5_ff3ffe18cb-test, practical5_ff3ffe18cb
+2024.07.15 21:37:57 INFO  compiling practical5_ff3ffe18cb (1 scala source)
+2024.07.15 21:38:00 INFO  time: compiled practical5_ff3ffe18cb in 3.25s
+2024.07.15 21:38:00 INFO  compiling practical5_ff3ffe18cb (1 scala source)
+2024.07.15 21:38:00 INFO  time: compiled practical5_ff3ffe18cb in 0.33s
+2024.07.15 21:38:03 WARN  Flyway upgrade recommended: H2 2.2.224 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.220.
+2024.07.15 21:38:18 INFO  time: indexed workspace in 21s
+2024.07.15 21:38:19 INFO  compiling practical5_ff3ffe18cb (1 scala source)
+2024.07.15 21:38:19 INFO  time: compiled practical5_ff3ffe18cb in 0.32s
+2024.07.15 21:38:19 INFO  compiling practical5_ff3ffe18cb (1 scala source)
+2024.07.15 21:38:20 INFO  time: compiled practical5_ff3ffe18cb in 0.63s
+Jul 15, 2024 9:46:49 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 498
+Jul 15, 2024 9:52:24 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1400
+2024.07.15 21:53:03 INFO  compiling practical5_ff3ffe18cb (1 scala source)
+2024.07.15 21:53:05 INFO  time: compiled practical5_ff3ffe18cb in 1.51s
+Jul 15, 2024 9:53:12 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1669
+Jul 15, 2024 9:53:21 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1715
+Jul 15, 2024 9:54:33 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1928
+2024.07.15 21:55:10 INFO  compiling practical5_ff3ffe18cb (1 scala source)
+2024.07.15 21:55:10 INFO  time: compiled practical5_ff3ffe18cb in 0.94s
+2024.07.15 21:55:28 INFO  compiling practical5_ff3ffe18cb (1 scala source)
+2024.07.15 21:55:29 INFO  time: compiled practical5_ff3ffe18cb in 1.97s
+2024.07.15 21:58:01 INFO  compiling practical5_ff3ffe18cb (1 scala source)
+2024.07.15 21:58:01 INFO  time: compiled practical5_ff3ffe18cb in 0.71s
+Jul 15, 2024 9:58:12 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2134
+2024.07.15 21:58:14 INFO  compiling practical5_ff3ffe18cb (1 scala source)
+2024.07.15 21:58:14 INFO  time: compiled practical5_ff3ffe18cb in 0.36s
+2024.07.15 22:00:13 ERROR Failed to tokenize input for semantic tokens for D:\UCSC\2Yr 1Sem\FP\practical5\q1.scala
+scala.meta.tokenizers.TokenizeException: <input>:12: error: unclosed string interpolation
+        println(s"$")
+                  ^
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:32)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:32)
+	at scala.meta.internal.tokenizers.LegacyScanner.getStringPart(LegacyScanner.scala:605)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchDoubleQuote$1(LegacyScanner.scala:347)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchToken(LegacyScanner.scala:363)
+	at scala.meta.internal.tokenizers.LegacyScanner.nextToken(LegacyScanner.scala:201)
+	at scala.meta.internal.tokenizers.LegacyScanner.foreach(LegacyScanner.scala:912)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.uncachedTokenize(ScalametaTokenizer.scala:23)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.$anonfun$tokenize$1(ScalametaTokenizer.scala:17)
+	at scala.collection.concurrent.TrieMap.getOrElseUpdate(TrieMap.scala:960)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.tokenize(ScalametaTokenizer.scala:17)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer$$anon$2.apply(ScalametaTokenizer.scala:322)
+	at scala.meta.tokenizers.Api$XtensionTokenizeDialectInput.tokenize(Api.scala:22)
+	at scala.meta.tokenizers.Api$XtensionTokenizeInputLike.tokenize(Api.scala:13)
+	at scala.meta.internal.metals.SemanticTokensProvider$.getTokens(SemanticTokensProvider.scala:28)
+	at scala.meta.internal.metals.SemanticTokensProvider$.provide(SemanticTokensProvider.scala:89)
+	at scala.meta.internal.metals.Compilers.$anonfun$semanticTokens$3(Compilers.scala:545)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.lang.Thread.run(Thread.java:1570)
+
+Jul 15, 2024 10:00:16 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2356
+2024.07.15 22:00:30 ERROR Failed to tokenize input for semantic tokens for D:\UCSC\2Yr 1Sem\FP\practical5\q1.scala
+scala.meta.tokenizers.TokenizeException: <input>:12: error: unclosed string interpolation
+        println(s"${i + 1}) $")
+                          ^
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:32)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:32)
+	at scala.meta.internal.tokenizers.LegacyScanner.getStringPart(LegacyScanner.scala:605)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchToken(LegacyScanner.scala:239)
+	at scala.meta.internal.tokenizers.LegacyScanner.nextToken(LegacyScanner.scala:201)
+	at scala.meta.internal.tokenizers.LegacyScanner.foreach(LegacyScanner.scala:912)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.uncachedTokenize(ScalametaTokenizer.scala:23)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.$anonfun$tokenize$1(ScalametaTokenizer.scala:17)
+	at scala.collection.concurrent.TrieMap.getOrElseUpdate(TrieMap.scala:960)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.tokenize(ScalametaTokenizer.scala:17)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer$$anon$2.apply(ScalametaTokenizer.scala:322)
+	at scala.meta.tokenizers.Api$XtensionTokenizeDialectInput.tokenize(Api.scala:22)
+	at scala.meta.tokenizers.Api$XtensionTokenizeInputLike.tokenize(Api.scala:13)
+	at scala.meta.internal.metals.SemanticTokensProvider$.getTokens(SemanticTokensProvider.scala:28)
+	at scala.meta.internal.metals.SemanticTokensProvider$.provide(SemanticTokensProvider.scala:89)
+	at scala.meta.internal.metals.Compilers.$anonfun$semanticTokens$3(Compilers.scala:545)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.lang.Thread.run(Thread.java:1570)
+
+2024.07.15 22:00:42 INFO  compiling practical5_ff3ffe18cb (1 scala source)
+2024.07.15 22:00:42 INFO  time: compiled practical5_ff3ffe18cb in 0.5s
+2024.07.15 22:01:27 INFO  compiling practical5_ff3ffe18cb (1 scala source)
+2024.07.15 22:01:27 INFO  time: compiled practical5_ff3ffe18cb in 0.56s
+Jul 15, 2024 10:01:58 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2623
+2024.07.15 22:04:10 INFO  no build target found for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.15 22:04:10 INFO  no build target found for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.15 22:04:10 WARN  Could not find semantic tokens for: file:///D:/UCSC/2Yr%201Sem/FP/practical5/q2.scala
+2024.07.15 22:04:10 INFO  running doctor check
+2024.07.15 22:04:10 INFO  java targets: practical5_ff3ffe18cb-test, practical5_ff3ffe18cb
+2024.07.15 22:04:11 INFO  compiling practical5_ff3ffe18cb (1 scala source)
+2024.07.15 22:04:11 INFO  time: compiled practical5_ff3ffe18cb in 0.15s
+2024.07.15 22:04:13 INFO  time: indexed workspace in 2.08s
+2024.07.15 22:04:13 WARN  Could not find semantic tokens for: file:///D:/UCSC/2Yr%201Sem/FP/practical5/q2.scala
+2024.07.15 22:04:14 WARN  Could not find semantic tokens for: file:///D:/UCSC/2Yr%201Sem/FP/practical5/q2.scala
+2024.07.15 22:04:15 WARN  Could not find semantic tokens for: file:///D:/UCSC/2Yr%201Sem/FP/practical5/q2.scala
+2024.07.15 22:04:15 WARN  Could not find semantic tokens for: file:///D:/UCSC/2Yr%201Sem/FP/practical5/q2.scala
+2024.07.15 22:08:04 WARN  Could not find semantic tokens for: file:///D:/UCSC/2Yr%201Sem/FP/practical5/q2.scala
+2024.07.15 22:08:07 WARN  Could not find semantic tokens for: file:///D:/UCSC/2Yr%201Sem/FP/practical5/q2.scala
+2024.07.15 22:09:15 INFO  compiling practical5_ff3ffe18cb (1 scala source)
+2024.07.15 22:09:15 INFO  time: compiled practical5_ff3ffe18cb in 0.97s
+Jul 15, 2024 10:12:02 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4272
+Jul 15, 2024 10:12:43 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4539
+Jul 15, 2024 10:15:27 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 5344
+Jul 15, 2024 10:15:40 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report D:\UCSC\2Yr 1Sem\FP\practical5\.metals\.reports\metals-full\2024-07-15\r_compiler-error_(practical5_ff3ffe18cb)_22-15-40-700.md
+Jul 15, 2024 10:15:41 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report D:\UCSC\2Yr 1Sem\FP\practical5\.metals\.reports\metals-full\2024-07-15\r_compiler-error_(practical5_ff3ffe18cb)_22-15-41-179.md
+Jul 15, 2024 10:15:41 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report D:\UCSC\2Yr 1Sem\FP\practical5\.metals\.reports\metals-full\2024-07-15\r_compiler-error_(practical5_ff3ffe18cb)_22-15-41-765.md
+Jul 15, 2024 10:15:42 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report D:\UCSC\2Yr 1Sem\FP\practical5\.metals\.reports\metals-full\2024-07-15\r_compiler-error_(practical5_ff3ffe18cb)_22-15-42-699.md
+Jul 15, 2024 10:16:16 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 5632
+Jul 15, 2024 10:16:38 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 5768
+2024.07.15 22:17:06 ERROR Failed to tokenize input for semantic tokens for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+scala.meta.tokenizers.TokenizeException: <input>:21: error: unclosed string interpolation
+        case None => println(s"Book with ISBN: $")
+                               ^
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:32)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:32)
+	at scala.meta.internal.tokenizers.LegacyScanner.getStringPart(LegacyScanner.scala:605)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchDoubleQuote$1(LegacyScanner.scala:347)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchToken(LegacyScanner.scala:363)
+	at scala.meta.internal.tokenizers.LegacyScanner.nextToken(LegacyScanner.scala:201)
+	at scala.meta.internal.tokenizers.LegacyScanner.foreach(LegacyScanner.scala:912)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.uncachedTokenize(ScalametaTokenizer.scala:23)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.$anonfun$tokenize$1(ScalametaTokenizer.scala:17)
+	at scala.collection.concurrent.TrieMap.getOrElseUpdate(TrieMap.scala:960)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.tokenize(ScalametaTokenizer.scala:17)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer$$anon$2.apply(ScalametaTokenizer.scala:322)
+	at scala.meta.tokenizers.Api$XtensionTokenizeDialectInput.tokenize(Api.scala:22)
+	at scala.meta.tokenizers.Api$XtensionTokenizeInputLike.tokenize(Api.scala:13)
+	at scala.meta.internal.metals.SemanticTokensProvider$.getTokens(SemanticTokensProvider.scala:28)
+	at scala.meta.internal.metals.SemanticTokensProvider$.provide(SemanticTokensProvider.scala:89)
+	at scala.meta.internal.metals.Compilers.$anonfun$semanticTokens$3(Compilers.scala:545)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.lang.Thread.run(Thread.java:1570)
+
+2024.07.15 22:17:07 ERROR Failed to tokenize input for semantic tokens for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+scala.meta.tokenizers.TokenizeException: <input>:21: error: unclosed string interpolation
+        case None => println(s"Book with ISBN: $")
+                               ^
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:32)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:32)
+	at scala.meta.internal.tokenizers.LegacyScanner.getStringPart(LegacyScanner.scala:605)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchDoubleQuote$1(LegacyScanner.scala:347)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchToken(LegacyScanner.scala:363)
+	at scala.meta.internal.tokenizers.LegacyScanner.nextToken(LegacyScanner.scala:201)
+	at scala.meta.internal.tokenizers.LegacyScanner.foreach(LegacyScanner.scala:912)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.uncachedTokenize(ScalametaTokenizer.scala:23)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.$anonfun$tokenize$1(ScalametaTokenizer.scala:17)
+	at scala.collection.concurrent.TrieMap.getOrElseUpdate(TrieMap.scala:960)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.tokenize(ScalametaTokenizer.scala:17)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer$$anon$2.apply(ScalametaTokenizer.scala:322)
+	at scala.meta.tokenizers.Api$XtensionTokenizeDialectInput.tokenize(Api.scala:22)
+	at scala.meta.tokenizers.Api$XtensionTokenizeInputLike.tokenize(Api.scala:13)
+	at scala.meta.internal.metals.SemanticTokensProvider$.getTokens(SemanticTokensProvider.scala:28)
+	at scala.meta.internal.metals.SemanticTokensProvider$.provide(SemanticTokensProvider.scala:89)
+	at scala.meta.internal.metals.Compilers.$anonfun$semanticTokens$3(Compilers.scala:545)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.lang.Thread.run(Thread.java:1570)
+
+Jul 15, 2024 10:18:08 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 6221
+2024.07.15 22:19:12 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:19:12 INFO  compiling practical5_ff3ffe18cb (1 scala source)
+2024.07.15 22:19:12 INFO  time: compiled practical5_ff3ffe18cb in 0.89s
+2024.07.15 22:19:13 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:21:25 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:21:28 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:21:31 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:21:32 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:21:33 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:21:33 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:21:34 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:21:35 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:21:37 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:21:37 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:21:38 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:21:38 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:21:39 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:21:39 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:21:40 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:21:40 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:21:42 INFO  compiling practical5_ff3ffe18cb (1 scala source)
+2024.07.15 22:21:42 INFO  time: compiled practical5_ff3ffe18cb in 0.58s
+2024.07.15 22:21:43 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:21:58 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:22:00 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:22:01 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:22:01 INFO  compiling practical5_ff3ffe18cb (1 scala source)
+2024.07.15 22:22:01 INFO  time: compiled practical5_ff3ffe18cb in 0.67s
+2024.07.15 22:22:06 INFO  compiling practical5_ff3ffe18cb (1 scala source)
+2024.07.15 22:22:06 INFO  time: compiled practical5_ff3ffe18cb in 0.73s
+2024.07.15 22:23:24 ERROR Failed to tokenize input for semantic tokens for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+scala.meta.tokenizers.TokenizeException: <input>:38: error: unclosed string interpolation
+            println(s"Title: $")    
+                      ^
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:32)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:32)
+	at scala.meta.internal.tokenizers.LegacyScanner.getStringPart(LegacyScanner.scala:605)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchDoubleQuote$1(LegacyScanner.scala:347)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchToken(LegacyScanner.scala:363)
+	at scala.meta.internal.tokenizers.LegacyScanner.nextToken(LegacyScanner.scala:201)
+	at scala.meta.internal.tokenizers.LegacyScanner.foreach(LegacyScanner.scala:912)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.uncachedTokenize(ScalametaTokenizer.scala:23)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.$anonfun$tokenize$1(ScalametaTokenizer.scala:17)
+	at scala.collection.concurrent.TrieMap.getOrElseUpdate(TrieMap.scala:960)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.tokenize(ScalametaTokenizer.scala:17)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer$$anon$2.apply(ScalametaTokenizer.scala:322)
+	at scala.meta.tokenizers.Api$XtensionTokenizeDialectInput.tokenize(Api.scala:22)
+	at scala.meta.tokenizers.Api$XtensionTokenizeInputLike.tokenize(Api.scala:13)
+	at scala.meta.internal.metals.SemanticTokensProvider$.getTokens(SemanticTokensProvider.scala:28)
+	at scala.meta.internal.metals.SemanticTokensProvider$.provide(SemanticTokensProvider.scala:89)
+	at scala.meta.internal.metals.Compilers.$anonfun$semanticTokens$3(Compilers.scala:545)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.lang.Thread.run(Thread.java:1570)
+
+2024.07.15 22:23:38 ERROR Failed to tokenize input for semantic tokens for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+scala.meta.tokenizers.TokenizeException: <input>:38: error: unclosed string interpolation
+            println(s"Title: ${books.title}, Author: $")    
+                                           ^
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:32)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:32)
+	at scala.meta.internal.tokenizers.LegacyScanner.getStringPart(LegacyScanner.scala:605)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchToken(LegacyScanner.scala:239)
+	at scala.meta.internal.tokenizers.LegacyScanner.nextToken(LegacyScanner.scala:201)
+	at scala.meta.internal.tokenizers.LegacyScanner.foreach(LegacyScanner.scala:912)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.uncachedTokenize(ScalametaTokenizer.scala:23)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.$anonfun$tokenize$1(ScalametaTokenizer.scala:17)
+	at scala.collection.concurrent.TrieMap.getOrElseUpdate(TrieMap.scala:960)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.tokenize(ScalametaTokenizer.scala:17)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer$$anon$2.apply(ScalametaTokenizer.scala:322)
+	at scala.meta.tokenizers.Api$XtensionTokenizeDialectInput.tokenize(Api.scala:22)
+	at scala.meta.tokenizers.Api$XtensionTokenizeInputLike.tokenize(Api.scala:13)
+	at scala.meta.internal.metals.SemanticTokensProvider$.getTokens(SemanticTokensProvider.scala:28)
+	at scala.meta.internal.metals.SemanticTokensProvider$.provide(SemanticTokensProvider.scala:89)
+	at scala.meta.internal.metals.Compilers.$anonfun$semanticTokens$3(Compilers.scala:545)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.lang.Thread.run(Thread.java:1570)
+
+2024.07.15 22:23:49 ERROR Failed to tokenize input for semantic tokens for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+scala.meta.tokenizers.TokenizeException: <input>:38: error: unclosed string interpolation
+            println(s"Title: ${books.title}, Author: ${books.author}, ISBN: $")    
+                                                                    ^
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:32)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:32)
+	at scala.meta.internal.tokenizers.LegacyScanner.getStringPart(LegacyScanner.scala:605)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchToken(LegacyScanner.scala:239)
+	at scala.meta.internal.tokenizers.LegacyScanner.nextToken(LegacyScanner.scala:201)
+	at scala.meta.internal.tokenizers.LegacyScanner.foreach(LegacyScanner.scala:912)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.uncachedTokenize(ScalametaTokenizer.scala:23)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.$anonfun$tokenize$1(ScalametaTokenizer.scala:17)
+	at scala.collection.concurrent.TrieMap.getOrElseUpdate(TrieMap.scala:960)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.tokenize(ScalametaTokenizer.scala:17)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer$$anon$2.apply(ScalametaTokenizer.scala:322)
+	at scala.meta.tokenizers.Api$XtensionTokenizeDialectInput.tokenize(Api.scala:22)
+	at scala.meta.tokenizers.Api$XtensionTokenizeInputLike.tokenize(Api.scala:13)
+	at scala.meta.internal.metals.SemanticTokensProvider$.getTokens(SemanticTokensProvider.scala:28)
+	at scala.meta.internal.metals.SemanticTokensProvider$.provide(SemanticTokensProvider.scala:89)
+	at scala.meta.internal.metals.Compilers.$anonfun$semanticTokens$3(Compilers.scala:545)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.lang.Thread.run(Thread.java:1570)
+
+2024.07.15 22:23:53 ERROR Failed to tokenize input for semantic tokens for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+scala.meta.tokenizers.TokenizeException: <input>:38: error: unclosed string interpolation
+            println(s"Title: ${books.title}, Author: ${books.author}, ISBN: ${books.isEmp")    
+                                                                                          ^
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:32)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:32)
+	at scala.meta.internal.tokenizers.LegacyScanner.getStringPart(LegacyScanner.scala:605)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchDoubleQuote$1(LegacyScanner.scala:347)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchToken(LegacyScanner.scala:363)
+	at scala.meta.internal.tokenizers.LegacyScanner.nextToken(LegacyScanner.scala:201)
+	at scala.meta.internal.tokenizers.LegacyScanner.foreach(LegacyScanner.scala:912)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.uncachedTokenize(ScalametaTokenizer.scala:23)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.$anonfun$tokenize$1(ScalametaTokenizer.scala:17)
+	at scala.collection.concurrent.TrieMap.getOrElseUpdate(TrieMap.scala:960)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.tokenize(ScalametaTokenizer.scala:17)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer$$anon$2.apply(ScalametaTokenizer.scala:322)
+	at scala.meta.tokenizers.Api$XtensionTokenizeDialectInput.tokenize(Api.scala:22)
+	at scala.meta.tokenizers.Api$XtensionTokenizeInputLike.tokenize(Api.scala:13)
+	at scala.meta.internal.metals.SemanticTokensProvider$.getTokens(SemanticTokensProvider.scala:28)
+	at scala.meta.internal.metals.SemanticTokensProvider$.provide(SemanticTokensProvider.scala:89)
+	at scala.meta.internal.metals.Compilers.$anonfun$semanticTokens$3(Compilers.scala:545)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.lang.Thread.run(Thread.java:1570)
+
+2024.07.15 22:23:54 ERROR Failed to tokenize input for semantic tokens for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+scala.meta.tokenizers.TokenizeException: <input>:38: error: unclosed string interpolation
+            println(s"Title: ${books.title}, Author: ${books.author}, ISBN: ${books.isE")    
+                                                                                        ^
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:32)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:32)
+	at scala.meta.internal.tokenizers.LegacyScanner.getStringPart(LegacyScanner.scala:605)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchDoubleQuote$1(LegacyScanner.scala:347)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchToken(LegacyScanner.scala:363)
+	at scala.meta.internal.tokenizers.LegacyScanner.nextToken(LegacyScanner.scala:201)
+	at scala.meta.internal.tokenizers.LegacyScanner.foreach(LegacyScanner.scala:912)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.uncachedTokenize(ScalametaTokenizer.scala:23)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.$anonfun$tokenize$1(ScalametaTokenizer.scala:17)
+	at scala.collection.concurrent.TrieMap.getOrElseUpdate(TrieMap.scala:960)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.tokenize(ScalametaTokenizer.scala:17)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer$$anon$2.apply(ScalametaTokenizer.scala:322)
+	at scala.meta.tokenizers.Api$XtensionTokenizeDialectInput.tokenize(Api.scala:22)
+	at scala.meta.tokenizers.Api$XtensionTokenizeInputLike.tokenize(Api.scala:13)
+	at scala.meta.internal.metals.SemanticTokensProvider$.getTokens(SemanticTokensProvider.scala:28)
+	at scala.meta.internal.metals.SemanticTokensProvider$.provide(SemanticTokensProvider.scala:89)
+	at scala.meta.internal.metals.Compilers.$anonfun$semanticTokens$3(Compilers.scala:545)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.lang.Thread.run(Thread.java:1570)
+
+2024.07.15 22:23:54 ERROR Failed to tokenize input for semantic tokens for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+scala.meta.tokenizers.TokenizeException: <input>:38: error: unclosed string interpolation
+            println(s"Title: ${books.title}, Author: ${books.author}, ISBN: ${books.isb")    
+                                                                                        ^
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:32)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:32)
+	at scala.meta.internal.tokenizers.LegacyScanner.getStringPart(LegacyScanner.scala:605)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchDoubleQuote$1(LegacyScanner.scala:347)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchToken(LegacyScanner.scala:363)
+	at scala.meta.internal.tokenizers.LegacyScanner.nextToken(LegacyScanner.scala:201)
+	at scala.meta.internal.tokenizers.LegacyScanner.foreach(LegacyScanner.scala:912)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.uncachedTokenize(ScalametaTokenizer.scala:23)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.$anonfun$tokenize$1(ScalametaTokenizer.scala:17)
+	at scala.collection.concurrent.TrieMap.getOrElseUpdate(TrieMap.scala:960)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.tokenize(ScalametaTokenizer.scala:17)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer$$anon$2.apply(ScalametaTokenizer.scala:322)
+	at scala.meta.tokenizers.Api$XtensionTokenizeDialectInput.tokenize(Api.scala:22)
+	at scala.meta.tokenizers.Api$XtensionTokenizeInputLike.tokenize(Api.scala:13)
+	at scala.meta.internal.metals.SemanticTokensProvider$.getTokens(SemanticTokensProvider.scala:28)
+	at scala.meta.internal.metals.SemanticTokensProvider$.provide(SemanticTokensProvider.scala:89)
+	at scala.meta.internal.metals.Compilers.$anonfun$semanticTokens$3(Compilers.scala:545)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.lang.Thread.run(Thread.java:1570)
+
+2024.07.15 22:23:55 ERROR Failed to tokenize input for semantic tokens for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+scala.meta.tokenizers.TokenizeException: <input>:38: error: unclosed string interpolation
+            println(s"Title: ${books.title}, Author: ${books.author}, ISBN: ${books.isbiterableFactory")    
+                                                                                                       ^
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:32)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:32)
+	at scala.meta.internal.tokenizers.LegacyScanner.getStringPart(LegacyScanner.scala:605)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchDoubleQuote$1(LegacyScanner.scala:347)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchToken(LegacyScanner.scala:363)
+	at scala.meta.internal.tokenizers.LegacyScanner.nextToken(LegacyScanner.scala:201)
+	at scala.meta.internal.tokenizers.LegacyScanner.foreach(LegacyScanner.scala:912)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.uncachedTokenize(ScalametaTokenizer.scala:23)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.$anonfun$tokenize$1(ScalametaTokenizer.scala:17)
+	at scala.collection.concurrent.TrieMap.getOrElseUpdate(TrieMap.scala:960)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.tokenize(ScalametaTokenizer.scala:17)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer$$anon$2.apply(ScalametaTokenizer.scala:322)
+	at scala.meta.tokenizers.Api$XtensionTokenizeDialectInput.tokenize(Api.scala:22)
+	at scala.meta.tokenizers.Api$XtensionTokenizeInputLike.tokenize(Api.scala:13)
+	at scala.meta.internal.metals.SemanticTokensProvider$.getTokens(SemanticTokensProvider.scala:28)
+	at scala.meta.internal.metals.SemanticTokensProvider$.provide(SemanticTokensProvider.scala:89)
+	at scala.meta.internal.metals.Compilers.$anonfun$semanticTokens$3(Compilers.scala:545)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.lang.Thread.run(Thread.java:1570)
+
+2024.07.15 22:23:56 ERROR Failed to tokenize input for semantic tokens for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+scala.meta.tokenizers.TokenizeException: <input>:38: error: unclosed string interpolation
+            println(s"Title: ${books.title}, Author: ${books.author}, ISBN: ${books.isbiterableFactor")    
+                                                                                                      ^
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:32)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:32)
+	at scala.meta.internal.tokenizers.LegacyScanner.getStringPart(LegacyScanner.scala:605)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchDoubleQuote$1(LegacyScanner.scala:347)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchToken(LegacyScanner.scala:363)
+	at scala.meta.internal.tokenizers.LegacyScanner.nextToken(LegacyScanner.scala:201)
+	at scala.meta.internal.tokenizers.LegacyScanner.foreach(LegacyScanner.scala:912)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.uncachedTokenize(ScalametaTokenizer.scala:23)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.$anonfun$tokenize$1(ScalametaTokenizer.scala:17)
+	at scala.collection.concurrent.TrieMap.getOrElseUpdate(TrieMap.scala:960)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.tokenize(ScalametaTokenizer.scala:17)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer$$anon$2.apply(ScalametaTokenizer.scala:322)
+	at scala.meta.tokenizers.Api$XtensionTokenizeDialectInput.tokenize(Api.scala:22)
+	at scala.meta.tokenizers.Api$XtensionTokenizeInputLike.tokenize(Api.scala:13)
+	at scala.meta.internal.metals.SemanticTokensProvider$.getTokens(SemanticTokensProvider.scala:28)
+	at scala.meta.internal.metals.SemanticTokensProvider$.provide(SemanticTokensProvider.scala:89)
+	at scala.meta.internal.metals.Compilers.$anonfun$semanticTokens$3(Compilers.scala:545)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.lang.Thread.run(Thread.java:1570)
+
+2024.07.15 22:23:56 ERROR Failed to tokenize input for semantic tokens for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+scala.meta.tokenizers.TokenizeException: <input>:38: error: unclosed string interpolation
+            println(s"Title: ${books.title}, Author: ${books.author}, ISBN: ${books.isbite")    
+                                                                                           ^
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:32)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:32)
+	at scala.meta.internal.tokenizers.LegacyScanner.getStringPart(LegacyScanner.scala:605)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchDoubleQuote$1(LegacyScanner.scala:347)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchToken(LegacyScanner.scala:363)
+	at scala.meta.internal.tokenizers.LegacyScanner.nextToken(LegacyScanner.scala:201)
+	at scala.meta.internal.tokenizers.LegacyScanner.foreach(LegacyScanner.scala:912)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.uncachedTokenize(ScalametaTokenizer.scala:23)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.$anonfun$tokenize$1(ScalametaTokenizer.scala:17)
+	at scala.collection.concurrent.TrieMap.getOrElseUpdate(TrieMap.scala:960)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.tokenize(ScalametaTokenizer.scala:17)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer$$anon$2.apply(ScalametaTokenizer.scala:322)
+	at scala.meta.tokenizers.Api$XtensionTokenizeDialectInput.tokenize(Api.scala:22)
+	at scala.meta.tokenizers.Api$XtensionTokenizeInputLike.tokenize(Api.scala:13)
+	at scala.meta.internal.metals.SemanticTokensProvider$.getTokens(SemanticTokensProvider.scala:28)
+	at scala.meta.internal.metals.SemanticTokensProvider$.provide(SemanticTokensProvider.scala:89)
+	at scala.meta.internal.metals.Compilers.$anonfun$semanticTokens$3(Compilers.scala:545)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.lang.Thread.run(Thread.java:1570)
+
+2024.07.15 22:23:56 ERROR Failed to tokenize input for semantic tokens for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+scala.meta.tokenizers.TokenizeException: <input>:38: error: unclosed string interpolation
+            println(s"Title: ${books.title}, Author: ${books.author}, ISBN: ${books.isb")    
+                                                                                        ^
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:32)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:32)
+	at scala.meta.internal.tokenizers.LegacyScanner.getStringPart(LegacyScanner.scala:605)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchDoubleQuote$1(LegacyScanner.scala:347)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchToken(LegacyScanner.scala:363)
+	at scala.meta.internal.tokenizers.LegacyScanner.nextToken(LegacyScanner.scala:201)
+	at scala.meta.internal.tokenizers.LegacyScanner.foreach(LegacyScanner.scala:912)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.uncachedTokenize(ScalametaTokenizer.scala:23)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.$anonfun$tokenize$1(ScalametaTokenizer.scala:17)
+	at scala.collection.concurrent.TrieMap.getOrElseUpdate(TrieMap.scala:960)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.tokenize(ScalametaTokenizer.scala:17)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer$$anon$2.apply(ScalametaTokenizer.scala:322)
+	at scala.meta.tokenizers.Api$XtensionTokenizeDialectInput.tokenize(Api.scala:22)
+	at scala.meta.tokenizers.Api$XtensionTokenizeInputLike.tokenize(Api.scala:13)
+	at scala.meta.internal.metals.SemanticTokensProvider$.getTokens(SemanticTokensProvider.scala:28)
+	at scala.meta.internal.metals.SemanticTokensProvider$.provide(SemanticTokensProvider.scala:89)
+	at scala.meta.internal.metals.Compilers.$anonfun$semanticTokens$3(Compilers.scala:545)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.lang.Thread.run(Thread.java:1570)
+
+2024.07.15 22:23:57 ERROR Failed to tokenize input for semantic tokens for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+scala.meta.tokenizers.TokenizeException: <input>:38: error: unclosed string interpolation
+            println(s"Title: ${books.title}, Author: ${books.author}, ISBN: ${books.isbn")    
+                                                                                         ^
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:32)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:32)
+	at scala.meta.internal.tokenizers.LegacyScanner.getStringPart(LegacyScanner.scala:605)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchDoubleQuote$1(LegacyScanner.scala:347)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchToken(LegacyScanner.scala:363)
+	at scala.meta.internal.tokenizers.LegacyScanner.nextToken(LegacyScanner.scala:201)
+	at scala.meta.internal.tokenizers.LegacyScanner.foreach(LegacyScanner.scala:912)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.uncachedTokenize(ScalametaTokenizer.scala:23)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.$anonfun$tokenize$1(ScalametaTokenizer.scala:17)
+	at scala.collection.concurrent.TrieMap.getOrElseUpdate(TrieMap.scala:960)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.tokenize(ScalametaTokenizer.scala:17)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer$$anon$2.apply(ScalametaTokenizer.scala:322)
+	at scala.meta.tokenizers.Api$XtensionTokenizeDialectInput.tokenize(Api.scala:22)
+	at scala.meta.tokenizers.Api$XtensionTokenizeInputLike.tokenize(Api.scala:13)
+	at scala.meta.internal.metals.SemanticTokensProvider$.getTokens(SemanticTokensProvider.scala:28)
+	at scala.meta.internal.metals.SemanticTokensProvider$.provide(SemanticTokensProvider.scala:89)
+	at scala.meta.internal.metals.Compilers.$anonfun$semanticTokens$3(Compilers.scala:545)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.lang.Thread.run(Thread.java:1570)
+
+2024.07.15 22:24:03 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:24:03 INFO  compiling practical5_ff3ffe18cb (1 scala source)
+2024.07.15 22:24:03 INFO  time: compiled practical5_ff3ffe18cb in 0.7s
+2024.07.15 22:24:04 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:24:48 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:24:48 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:24:49 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:24:50 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:24:53 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:24:54 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:24:55 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:24:56 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:24:57 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:24:58 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:24:59 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+Jul 15, 2024 10:24:59 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 7796
+2024.07.15 22:24:59 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:25:00 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:25:02 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:25:02 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:25:03 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:25:05 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:25:07 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:25:08 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:25:09 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:25:11 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:25:12 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:25:13 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:25:14 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:25:14 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:25:16 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:25:16 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:25:17 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:25:19 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:25:19 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:25:19 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:25:21 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:25:21 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:25:25 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:25:26 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:25:27 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:25:28 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:25:31 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:25:33 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:25:34 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:25:36 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:25:38 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:25:39 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:25:41 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:25:43 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:25:46 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:25:47 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:25:48 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:25:48 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:25:49 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:25:49 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:25:50 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:25:51 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:25:52 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:25:53 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:25:54 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:25:54 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:25:55 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:25:57 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:25:58 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:25:59 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:26:01 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:26:01 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:26:02 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:26:02 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:26:03 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:26:03 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:26:03 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:26:05 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:26:07 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:26:07 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:26:09 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:26:09 ERROR Failed to tokenize input for semantic tokens for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+scala.meta.tokenizers.TokenizeException: <input>:48: error: unclosed string interpolation
+        println(s"No books found with title: $")
+                  ^
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:32)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:32)
+	at scala.meta.internal.tokenizers.LegacyScanner.getStringPart(LegacyScanner.scala:605)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchDoubleQuote$1(LegacyScanner.scala:347)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchToken(LegacyScanner.scala:363)
+	at scala.meta.internal.tokenizers.LegacyScanner.nextToken(LegacyScanner.scala:201)
+	at scala.meta.internal.tokenizers.LegacyScanner.foreach(LegacyScanner.scala:912)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.uncachedTokenize(ScalametaTokenizer.scala:23)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.$anonfun$tokenize$1(ScalametaTokenizer.scala:17)
+	at scala.collection.concurrent.TrieMap.getOrElseUpdate(TrieMap.scala:960)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.tokenize(ScalametaTokenizer.scala:17)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer$$anon$2.apply(ScalametaTokenizer.scala:322)
+	at scala.meta.tokenizers.Api$XtensionTokenizeDialectInput.tokenize(Api.scala:22)
+	at scala.meta.tokenizers.Api$XtensionTokenizeInputLike.tokenize(Api.scala:13)
+	at scala.meta.internal.metals.SemanticTokensProvider$.getTokens(SemanticTokensProvider.scala:28)
+	at scala.meta.internal.metals.SemanticTokensProvider$.provide(SemanticTokensProvider.scala:89)
+	at scala.meta.internal.metals.Compilers.$anonfun$semanticTokens$3(Compilers.scala:545)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.lang.Thread.run(Thread.java:1570)
+
+2024.07.15 22:26:09 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:26:15 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:26:16 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:26:17 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:26:18 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:26:19 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:26:19 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:26:20 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:26:21 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:26:23 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:26:24 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:26:25 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:26:27 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:26:28 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:26:29 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:26:30 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:26:31 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:26:32 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:26:32 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:26:33 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:26:33 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:26:36 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:26:36 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:26:38 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:26:43 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:26:43 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:26:44 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:26:47 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:26:48 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:26:49 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:26:49 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:26:49 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:26:51 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:26:52 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:26:54 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:26:54 ERROR Failed to tokenize input for semantic tokens for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+scala.meta.tokenizers.TokenizeException: <input>:52: error: unclosed string interpolation
+            println(s"Title: $")
+                      ^
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:32)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:32)
+	at scala.meta.internal.tokenizers.LegacyScanner.getStringPart(LegacyScanner.scala:605)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchDoubleQuote$1(LegacyScanner.scala:347)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchToken(LegacyScanner.scala:363)
+	at scala.meta.internal.tokenizers.LegacyScanner.nextToken(LegacyScanner.scala:201)
+	at scala.meta.internal.tokenizers.LegacyScanner.foreach(LegacyScanner.scala:912)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.uncachedTokenize(ScalametaTokenizer.scala:23)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.$anonfun$tokenize$1(ScalametaTokenizer.scala:17)
+	at scala.collection.concurrent.TrieMap.getOrElseUpdate(TrieMap.scala:960)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.tokenize(ScalametaTokenizer.scala:17)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer$$anon$2.apply(ScalametaTokenizer.scala:322)
+	at scala.meta.tokenizers.Api$XtensionTokenizeDialectInput.tokenize(Api.scala:22)
+	at scala.meta.tokenizers.Api$XtensionTokenizeInputLike.tokenize(Api.scala:13)
+	at scala.meta.internal.metals.SemanticTokensProvider$.getTokens(SemanticTokensProvider.scala:28)
+	at scala.meta.internal.metals.SemanticTokensProvider$.provide(SemanticTokensProvider.scala:89)
+	at scala.meta.internal.metals.Compilers.$anonfun$semanticTokens$3(Compilers.scala:545)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.lang.Thread.run(Thread.java:1570)
+
+2024.07.15 22:26:54 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:26:56 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:26:56 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:26:57 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:26:59 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:27:00 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:27:02 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:27:03 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:27:03 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:27:04 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:27:06 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:27:06 ERROR Failed to tokenize input for semantic tokens for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+scala.meta.tokenizers.TokenizeException: <input>:52: error: unclosed string interpolation
+            println(s"Title: ${books.title}, Author: $")
+                                           ^
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:32)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:32)
+	at scala.meta.internal.tokenizers.LegacyScanner.getStringPart(LegacyScanner.scala:605)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchToken(LegacyScanner.scala:239)
+	at scala.meta.internal.tokenizers.LegacyScanner.nextToken(LegacyScanner.scala:201)
+	at scala.meta.internal.tokenizers.LegacyScanner.foreach(LegacyScanner.scala:912)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.uncachedTokenize(ScalametaTokenizer.scala:23)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.$anonfun$tokenize$1(ScalametaTokenizer.scala:17)
+	at scala.collection.concurrent.TrieMap.getOrElseUpdate(TrieMap.scala:960)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.tokenize(ScalametaTokenizer.scala:17)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer$$anon$2.apply(ScalametaTokenizer.scala:322)
+	at scala.meta.tokenizers.Api$XtensionTokenizeDialectInput.tokenize(Api.scala:22)
+	at scala.meta.tokenizers.Api$XtensionTokenizeInputLike.tokenize(Api.scala:13)
+	at scala.meta.internal.metals.SemanticTokensProvider$.getTokens(SemanticTokensProvider.scala:28)
+	at scala.meta.internal.metals.SemanticTokensProvider$.provide(SemanticTokensProvider.scala:89)
+	at scala.meta.internal.metals.Compilers.$anonfun$semanticTokens$3(Compilers.scala:545)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.lang.Thread.run(Thread.java:1570)
+
+2024.07.15 22:27:06 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:27:07 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:27:09 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:27:10 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:27:11 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:27:13 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:27:14 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:27:15 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:27:18 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:27:19 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:27:20 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:27:30 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:27:36 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:27:43 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:27:44 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:27:46 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:27:47 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:27:47 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:27:47 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:27:48 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:27:49 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:27:49 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:27:51 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:27:52 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:27:52 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:27:53 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:27:54 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:27:55 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:27:55 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:27:56 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:27:56 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:27:58 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:27:59 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:28:00 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:28:01 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:28:01 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:28:03 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:28:03 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:28:04 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:28:05 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:28:06 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:28:07 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:28:08 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:28:08 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:28:09 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:28:09 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:28:09 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:28:09 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:28:12 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:28:13 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:28:14 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:28:14 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:28:16 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:28:17 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:28:19 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:28:20 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:28:20 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:28:21 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:28:24 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:28:24 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:28:25 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:28:26 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:28:26 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:28:27 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:28:29 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:28:32 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:28:33 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:28:34 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:28:35 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:28:36 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:28:37 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:28:37 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:28:38 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:28:38 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:28:38 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:28:41 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:28:42 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:28:44 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:28:44 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:28:47 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:28:49 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:28:49 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:28:50 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:28:52 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:28:54 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:28:54 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:28:56 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:28:57 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:28:57 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:28:57 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:29:00 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:29:01 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:29:01 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:29:03 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:29:03 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:29:04 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:29:04 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:29:05 ERROR Failed to tokenize input for semantic tokens for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+scala.meta.tokenizers.TokenizeException: <input>:60: error: unclosed string interpolation
+        println(s"Books by author: $")
+                  ^
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:32)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:32)
+	at scala.meta.internal.tokenizers.LegacyScanner.getStringPart(LegacyScanner.scala:605)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchDoubleQuote$1(LegacyScanner.scala:347)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchToken(LegacyScanner.scala:363)
+	at scala.meta.internal.tokenizers.LegacyScanner.nextToken(LegacyScanner.scala:201)
+	at scala.meta.internal.tokenizers.LegacyScanner.foreach(LegacyScanner.scala:912)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.uncachedTokenize(ScalametaTokenizer.scala:23)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.$anonfun$tokenize$1(ScalametaTokenizer.scala:17)
+	at scala.collection.concurrent.TrieMap.getOrElseUpdate(TrieMap.scala:960)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.tokenize(ScalametaTokenizer.scala:17)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer$$anon$2.apply(ScalametaTokenizer.scala:322)
+	at scala.meta.tokenizers.Api$XtensionTokenizeDialectInput.tokenize(Api.scala:22)
+	at scala.meta.tokenizers.Api$XtensionTokenizeInputLike.tokenize(Api.scala:13)
+	at scala.meta.internal.metals.SemanticTokensProvider$.getTokens(SemanticTokensProvider.scala:28)
+	at scala.meta.internal.metals.SemanticTokensProvider$.provide(SemanticTokensProvider.scala:89)
+	at scala.meta.internal.metals.Compilers.$anonfun$semanticTokens$3(Compilers.scala:545)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.lang.Thread.run(Thread.java:1570)
+
+2024.07.15 22:29:05 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:29:06 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:29:07 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:29:07 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:29:08 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:29:08 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+Jul 15, 2024 10:29:08 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 9543
+2024.07.15 22:29:09 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:29:10 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:29:10 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:29:11 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:29:12 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:29:13 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:29:15 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:29:15 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:29:17 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:29:17 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:29:19 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:29:19 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:29:20 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:29:20 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:29:25 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:29:26 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:29:27 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:29:28 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:29:28 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:29:29 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:29:30 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:29:32 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:29:32 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:29:33 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:29:34 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:29:35 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:29:34 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:29:36 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:29:36 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:29:37 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:29:38 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:29:38 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:29:40 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:29:41 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:29:41 ERROR Failed to tokenize input for semantic tokens for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+scala.meta.tokenizers.TokenizeException: <input>:63: error: unclosed string interpolation
+            println(s" )    
+                      ^
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:32)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:32)
+	at scala.meta.internal.tokenizers.LegacyScanner.getStringPart(LegacyScanner.scala:605)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchDoubleQuote$1(LegacyScanner.scala:347)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchToken(LegacyScanner.scala:363)
+	at scala.meta.internal.tokenizers.LegacyScanner.nextToken(LegacyScanner.scala:201)
+	at scala.meta.internal.tokenizers.LegacyScanner.foreach(LegacyScanner.scala:912)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.uncachedTokenize(ScalametaTokenizer.scala:23)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.$anonfun$tokenize$1(ScalametaTokenizer.scala:17)
+	at scala.collection.concurrent.TrieMap.getOrElseUpdate(TrieMap.scala:960)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.tokenize(ScalametaTokenizer.scala:17)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer$$anon$2.apply(ScalametaTokenizer.scala:322)
+	at scala.meta.tokenizers.Api$XtensionTokenizeDialectInput.tokenize(Api.scala:22)
+	at scala.meta.tokenizers.Api$XtensionTokenizeInputLike.tokenize(Api.scala:13)
+	at scala.meta.internal.metals.SemanticTokensProvider$.getTokens(SemanticTokensProvider.scala:28)
+	at scala.meta.internal.metals.SemanticTokensProvider$.provide(SemanticTokensProvider.scala:89)
+	at scala.meta.internal.metals.Compilers.$anonfun$semanticTokens$3(Compilers.scala:545)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.lang.Thread.run(Thread.java:1570)
+
+2024.07.15 22:29:42 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:29:42 ERROR Failed to tokenize input for semantic tokens for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+scala.meta.tokenizers.TokenizeException: <input>:63: error: unclosed string interpolation
+            println(s")    
+                      ^
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:32)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:32)
+	at scala.meta.internal.tokenizers.LegacyScanner.getStringPart(LegacyScanner.scala:605)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchDoubleQuote$1(LegacyScanner.scala:347)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchToken(LegacyScanner.scala:363)
+	at scala.meta.internal.tokenizers.LegacyScanner.nextToken(LegacyScanner.scala:201)
+	at scala.meta.internal.tokenizers.LegacyScanner.foreach(LegacyScanner.scala:912)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.uncachedTokenize(ScalametaTokenizer.scala:23)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.$anonfun$tokenize$1(ScalametaTokenizer.scala:17)
+	at scala.collection.concurrent.TrieMap.getOrElseUpdate(TrieMap.scala:960)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.tokenize(ScalametaTokenizer.scala:17)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer$$anon$2.apply(ScalametaTokenizer.scala:322)
+	at scala.meta.tokenizers.Api$XtensionTokenizeDialectInput.tokenize(Api.scala:22)
+	at scala.meta.tokenizers.Api$XtensionTokenizeInputLike.tokenize(Api.scala:13)
+	at scala.meta.internal.metals.SemanticTokensProvider$.getTokens(SemanticTokensProvider.scala:28)
+	at scala.meta.internal.metals.SemanticTokensProvider$.provide(SemanticTokensProvider.scala:89)
+	at scala.meta.internal.metals.Compilers.$anonfun$semanticTokens$3(Compilers.scala:545)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.lang.Thread.run(Thread.java:1570)
+
+2024.07.15 22:29:42 ERROR Failed to tokenize input for semantic tokens for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+scala.meta.tokenizers.TokenizeException: <input>:63: error: unclosed string literal
+            println(s"" ")    
+                        ^
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:32)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:32)
+	at scala.meta.internal.tokenizers.LegacyScanner.getStringLit(LegacyScanner.scala:509)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchDoubleQuote$1(LegacyScanner.scala:361)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchToken(LegacyScanner.scala:363)
+	at scala.meta.internal.tokenizers.LegacyScanner.nextToken(LegacyScanner.scala:201)
+	at scala.meta.internal.tokenizers.LegacyScanner.foreach(LegacyScanner.scala:912)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.uncachedTokenize(ScalametaTokenizer.scala:23)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.$anonfun$tokenize$1(ScalametaTokenizer.scala:17)
+	at scala.collection.concurrent.TrieMap.getOrElseUpdate(TrieMap.scala:960)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.tokenize(ScalametaTokenizer.scala:17)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer$$anon$2.apply(ScalametaTokenizer.scala:322)
+	at scala.meta.tokenizers.Api$XtensionTokenizeDialectInput.tokenize(Api.scala:22)
+	at scala.meta.tokenizers.Api$XtensionTokenizeInputLike.tokenize(Api.scala:13)
+	at scala.meta.internal.metals.SemanticTokensProvider$.getTokens(SemanticTokensProvider.scala:28)
+	at scala.meta.internal.metals.SemanticTokensProvider$.provide(SemanticTokensProvider.scala:89)
+	at scala.meta.internal.metals.Compilers.$anonfun$semanticTokens$3(Compilers.scala:545)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.lang.Thread.run(Thread.java:1570)
+
+2024.07.15 22:29:43 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:29:43 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:29:44 ERROR Failed to tokenize input for semantic tokens for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+scala.meta.tokenizers.TokenizeException: <input>:63: error: unclosed string interpolation
+            println(s")    
+                      ^
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:32)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:32)
+	at scala.meta.internal.tokenizers.LegacyScanner.getStringPart(LegacyScanner.scala:605)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchDoubleQuote$1(LegacyScanner.scala:347)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchToken(LegacyScanner.scala:363)
+	at scala.meta.internal.tokenizers.LegacyScanner.nextToken(LegacyScanner.scala:201)
+	at scala.meta.internal.tokenizers.LegacyScanner.foreach(LegacyScanner.scala:912)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.uncachedTokenize(ScalametaTokenizer.scala:23)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.$anonfun$tokenize$1(ScalametaTokenizer.scala:17)
+	at scala.collection.concurrent.TrieMap.getOrElseUpdate(TrieMap.scala:960)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.tokenize(ScalametaTokenizer.scala:17)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer$$anon$2.apply(ScalametaTokenizer.scala:322)
+	at scala.meta.tokenizers.Api$XtensionTokenizeDialectInput.tokenize(Api.scala:22)
+	at scala.meta.tokenizers.Api$XtensionTokenizeInputLike.tokenize(Api.scala:13)
+	at scala.meta.internal.metals.SemanticTokensProvider$.getTokens(SemanticTokensProvider.scala:28)
+	at scala.meta.internal.metals.SemanticTokensProvider$.provide(SemanticTokensProvider.scala:89)
+	at scala.meta.internal.metals.Compilers.$anonfun$semanticTokens$3(Compilers.scala:545)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.lang.Thread.run(Thread.java:1570)
+
+2024.07.15 22:29:44 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:29:45 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:29:46 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:29:47 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:29:47 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:29:48 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:29:49 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:29:50 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:29:51 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:29:52 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:29:52 ERROR Failed to tokenize input for semantic tokens for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+scala.meta.tokenizers.TokenizeException: <input>:63: error: unclosed string interpolation
+            println(s"Title: $")    
+                      ^
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:32)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:32)
+	at scala.meta.internal.tokenizers.LegacyScanner.getStringPart(LegacyScanner.scala:605)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchDoubleQuote$1(LegacyScanner.scala:347)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchToken(LegacyScanner.scala:363)
+	at scala.meta.internal.tokenizers.LegacyScanner.nextToken(LegacyScanner.scala:201)
+	at scala.meta.internal.tokenizers.LegacyScanner.foreach(LegacyScanner.scala:912)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.uncachedTokenize(ScalametaTokenizer.scala:23)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.$anonfun$tokenize$1(ScalametaTokenizer.scala:17)
+	at scala.collection.concurrent.TrieMap.getOrElseUpdate(TrieMap.scala:960)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.tokenize(ScalametaTokenizer.scala:17)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer$$anon$2.apply(ScalametaTokenizer.scala:322)
+	at scala.meta.tokenizers.Api$XtensionTokenizeDialectInput.tokenize(Api.scala:22)
+	at scala.meta.tokenizers.Api$XtensionTokenizeInputLike.tokenize(Api.scala:13)
+	at scala.meta.internal.metals.SemanticTokensProvider$.getTokens(SemanticTokensProvider.scala:28)
+	at scala.meta.internal.metals.SemanticTokensProvider$.provide(SemanticTokensProvider.scala:89)
+	at scala.meta.internal.metals.Compilers.$anonfun$semanticTokens$3(Compilers.scala:545)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.lang.Thread.run(Thread.java:1570)
+
+2024.07.15 22:29:52 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:29:54 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:29:55 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:29:55 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:29:57 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:29:58 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:29:59 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:30:00 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:30:01 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:30:01 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:30:02 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:30:03 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:30:03 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:30:05 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:30:05 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:30:07 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:30:08 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:30:09 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:30:10 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:30:11 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:30:13 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:30:14 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:30:18 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:30:26 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:30:28 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:30:28 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:30:28 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:30:29 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:30:30 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:30:32 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:30:33 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:30:33 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:30:35 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:30:37 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:30:38 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:30:41 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:30:41 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:30:49 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:30:49 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:30:54 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:30:55 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:30:56 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:30:57 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:30:58 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:30:59 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:31:00 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:31:01 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:31:06 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:31:07 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:31:08 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:31:08 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:31:09 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:31:09 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:31:11 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:31:12 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:31:13 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:31:13 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:31:15 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:31:16 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:31:17 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:31:18 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:31:19 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:31:19 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:31:20 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:31:20 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:31:22 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:31:22 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:31:23 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:31:24 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:31:25 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:31:27 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:31:28 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:31:29 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:31:30 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:31:30 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:31:31 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:31:32 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:31:33 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:31:34 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:31:34 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:31:37 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:31:38 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:31:40 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:31:41 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:31:42 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:31:43 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:31:44 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:31:44 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:31:45 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:31:45 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:31:46 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:31:47 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:31:48 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:31:49 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:31:49 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:31:50 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:31:51 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:31:52 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:31:53 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:31:54 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:31:55 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:31:56 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:31:57 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:31:58 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:31:59 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:32:00 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:32:01 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:32:02 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:32:03 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:32:04 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:32:05 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:32:07 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:32:08 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:32:09 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:32:11 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:32:11 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:32:13 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:32:14 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:32:16 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:32:18 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:32:20 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:32:20 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:32:21 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:32:23 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:32:24 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:32:24 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:32:26 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:32:27 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:32:29 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:32:29 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:32:31 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:32:31 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:32:33 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:32:34 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:32:35 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:32:35 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:32:36 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:32:37 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:32:38 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:32:39 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:32:42 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:32:43 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:32:44 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:32:45 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:32:46 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:32:46 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:32:47 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:32:48 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:32:50 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:32:50 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:32:51 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:32:52 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:32:54 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:32:54 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:32:55 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:32:56 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:32:56 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:32:58 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:32:58 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:32:59 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:32:59 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:33:00 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:33:02 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:33:02 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:33:03 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:33:04 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:33:04 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:33:08 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:33:12 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:33:16 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:33:20 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:33:21 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:33:21 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:33:22 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:33:22 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:33:23 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+Jul 15, 2024 10:33:23 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report D:\UCSC\2Yr 1Sem\FP\practical5\.metals\.reports\metals-full\2024-07-15\r_compiler-error_(practical5_ff3ffe18cb)_22-33-23-743.md
+2024.07.15 22:33:24 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:33:24 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:33:25 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:33:25 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:33:26 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:33:27 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:33:28 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:33:28 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:33:29 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:33:30 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:33:30 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:33:32 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:33:32 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:33:33 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:33:34 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:33:35 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:33:37 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:33:37 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:33:38 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:33:39 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:33:40 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:33:41 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:33:42 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:33:45 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:33:46 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:33:47 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:33:48 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:33:50 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:33:51 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:33:53 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:33:54 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:33:55 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:33:56 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:33:56 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:34:02 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:34:02 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:34:03 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:34:05 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:34:10 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:34:10 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:34:11 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:34:12 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:34:24 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:34:28 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:34:29 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:34:30 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:34:32 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:34:34 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:34:34 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:34:35 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:34:36 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:34:37 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:34:40 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:34:41 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:34:41 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:34:45 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:34:48 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:34:49 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:34:50 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:34:51 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:34:54 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:34:54 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:34:56 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:34:57 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:35:02 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+Jul 15, 2024 10:35:02 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 11837
+2024.07.15 22:35:02 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:35:03 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:35:04 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:35:06 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:35:06 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:35:07 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:35:08 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:35:11 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:35:12 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:35:12 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:35:13 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:35:14 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:35:20 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:35:21 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:35:23 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:35:23 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:35:30 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:35:31 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:35:32 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:35:32 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:35:32 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:35:34 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:35:34 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:35:35 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:35:36 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:35:37 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:35:38 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:35:39 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:35:40 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:35:40 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:35:42 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:35:43 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:35:45 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:35:46 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:35:46 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:35:49 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:35:50 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:35:51 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:35:52 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:35:53 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:35:54 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:35:55 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:35:56 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:35:58 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:36:00 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:36:00 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:36:02 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:36:03 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:36:03 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:36:03 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:36:04 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:36:05 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:36:05 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:36:05 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:36:06 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:36:08 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:36:09 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:36:10 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:36:18 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:36:21 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:36:22 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:36:23 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:36:24 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:36:25 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:36:25 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:36:25 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:36:27 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:36:28 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:36:28 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:36:29 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:36:30 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:36:32 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:36:32 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:36:34 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:36:34 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:36:42 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:36:44 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:36:45 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:36:46 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:36:48 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:36:48 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:36:49 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:36:50 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:36:50 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:36:52 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:36:53 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:36:53 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:36:54 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:36:55 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:36:55 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:36:56 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:36:58 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:36:59 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:37:00 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:37:03 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:37:03 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:37:05 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:37:06 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:37:07 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:37:08 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:37:08 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:37:09 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:37:10 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:37:11 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:37:11 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:37:13 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:37:14 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:37:14 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:37:15 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:37:18 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:37:19 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:37:18 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:37:20 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:37:21 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:37:22 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:37:23 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:37:23 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:37:25 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:37:25 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:37:25 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:37:26 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:37:26 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:37:29 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:37:33 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:37:33 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:37:44 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:37:45 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:37:46 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:37:47 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:37:48 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:37:48 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:37:49 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:37:48 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:37:52 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:37:58 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:37:59 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:38:00 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:38:02 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:38:03 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:38:03 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:38:05 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:38:05 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:38:06 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:38:07 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:38:08 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:38:08 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:38:09 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:38:10 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:38:11 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:38:12 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:38:17 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:38:18 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:38:19 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:38:20 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:38:22 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:38:22 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:38:23 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:38:24 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:38:25 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:38:26 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:38:27 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:38:28 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:38:29 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:38:29 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:38:30 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:38:35 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:38:36 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:38:37 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:38:38 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:38:39 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:38:39 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:38:41 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:38:43 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:38:44 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:38:45 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:38:47 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:38:48 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:38:49 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+Jul 15, 2024 10:38:49 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 13378
+2024.07.15 22:38:50 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:38:51 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:38:54 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:38:55 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:38:57 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:38:58 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:38:59 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:39:04 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:39:05 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:39:06 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:39:06 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:39:14 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:39:15 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:39:15 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:39:16 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:39:17 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:39:18 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+Jul 15, 2024 10:39:19 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 13556
+2024.07.15 22:39:19 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:39:21 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:39:21 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:39:22 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:39:23 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:39:24 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:39:24 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:39:26 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:39:27 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:39:28 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:39:28 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:39:29 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:39:31 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:39:32 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:39:33 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:39:35 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:39:36 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:39:39 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:39:39 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:39:40 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:39:43 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:39:45 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:39:45 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:39:47 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:39:47 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:39:48 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:39:50 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:39:51 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:39:52 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:39:53 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:39:54 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:39:56 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:39:56 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:39:57 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:39:58 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:40:00 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:40:00 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:40:01 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:40:01 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:40:06 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:40:06 INFO  compiling practical5_ff3ffe18cb (1 scala source)
+2024.07.15 22:40:07 INFO  time: compiled practical5_ff3ffe18cb in 1.18s
+2024.07.15 22:40:08 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:40:25 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:40:45 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:40:47 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:40:51 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:40:52 INFO  compiling practical5_ff3ffe18cb (1 scala source)
+2024.07.15 22:40:52 INFO  time: compiled practical5_ff3ffe18cb in 0.72s
+2024.07.15 22:40:53 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:40:59 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:41:01 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:41:03 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:41:04 INFO  compiling practical5_ff3ffe18cb (1 scala source)
+2024.07.15 22:41:04 INFO  time: compiled practical5_ff3ffe18cb in 0.46s
+2024.07.15 22:41:04 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:41:10 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:41:12 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:41:14 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:41:15 INFO  compiling practical5_ff3ffe18cb (1 scala source)
+2024.07.15 22:41:15 INFO  time: compiled practical5_ff3ffe18cb in 0.31s
+2024.07.15 22:41:16 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:41:36 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:41:36 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:41:37 INFO  compiling practical5_ff3ffe18cb (1 scala source)
+2024.07.15 22:41:37 INFO  time: compiled practical5_ff3ffe18cb in 0.24s
+2024.07.15 22:41:38 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:41:48 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:41:48 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+2024.07.15 22:41:49 INFO  compiling practical5_ff3ffe18cb (1 scala source)
+2024.07.15 22:41:49 INFO  time: compiled practical5_ff3ffe18cb in 0.69s
+2024.07.15 22:42:13 INFO  compiling practical5_ff3ffe18cb (1 scala source)
+2024.07.15 22:42:13 INFO  time: compiled practical5_ff3ffe18cb in 0.65s
+Jul 15, 2024 10:44:45 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 14415
+2024.07.15 22:44:50 ERROR Failed to tokenize input for semantic tokens for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+scala.meta.tokenizers.TokenizeException: <input>:63: error: unclosed string literal
+      println(s"Books by author: ${booksByAuthor does not exist in the library.")
+                                                                               ^
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:32)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:32)
+	at scala.meta.internal.tokenizers.LegacyScanner.getStringLit(LegacyScanner.scala:509)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchDoubleQuote$1(LegacyScanner.scala:361)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchToken(LegacyScanner.scala:363)
+	at scala.meta.internal.tokenizers.LegacyScanner.nextToken(LegacyScanner.scala:201)
+	at scala.meta.internal.tokenizers.LegacyScanner.foreach(LegacyScanner.scala:912)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.uncachedTokenize(ScalametaTokenizer.scala:23)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.$anonfun$tokenize$1(ScalametaTokenizer.scala:17)
+	at scala.collection.concurrent.TrieMap.getOrElseUpdate(TrieMap.scala:960)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.tokenize(ScalametaTokenizer.scala:17)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer$$anon$2.apply(ScalametaTokenizer.scala:322)
+	at scala.meta.tokenizers.Api$XtensionTokenizeDialectInput.tokenize(Api.scala:22)
+	at scala.meta.tokenizers.Api$XtensionTokenizeInputLike.tokenize(Api.scala:13)
+	at scala.meta.internal.metals.SemanticTokensProvider$.getTokens(SemanticTokensProvider.scala:28)
+	at scala.meta.internal.metals.SemanticTokensProvider$.provide(SemanticTokensProvider.scala:89)
+	at scala.meta.internal.metals.Compilers.$anonfun$semanticTokens$3(Compilers.scala:545)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.lang.Thread.run(Thread.java:1570)
+
+2024.07.15 22:45:05 ERROR Failed to tokenize input for semantic tokens for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+scala.meta.tokenizers.TokenizeException: <input>:63: error: Not one of: `$$', `$'ident, `$'this, `$'BlockExpr, `$'_
+      println(s"Books by author: $ does not exist in the library.")
+                ^
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:32)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:32)
+	at scala.meta.internal.tokenizers.LegacyScanner.getStringPart(LegacyScanner.scala:598)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchDoubleQuote$1(LegacyScanner.scala:347)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchToken(LegacyScanner.scala:363)
+	at scala.meta.internal.tokenizers.LegacyScanner.nextToken(LegacyScanner.scala:201)
+	at scala.meta.internal.tokenizers.LegacyScanner.foreach(LegacyScanner.scala:912)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.uncachedTokenize(ScalametaTokenizer.scala:23)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.$anonfun$tokenize$1(ScalametaTokenizer.scala:17)
+	at scala.collection.concurrent.TrieMap.getOrElseUpdate(TrieMap.scala:960)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.tokenize(ScalametaTokenizer.scala:17)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer$$anon$2.apply(ScalametaTokenizer.scala:322)
+	at scala.meta.tokenizers.Api$XtensionTokenizeDialectInput.tokenize(Api.scala:22)
+	at scala.meta.tokenizers.Api$XtensionTokenizeInputLike.tokenize(Api.scala:13)
+	at scala.meta.internal.metals.SemanticTokensProvider$.getTokens(SemanticTokensProvider.scala:28)
+	at scala.meta.internal.metals.SemanticTokensProvider$.provide(SemanticTokensProvider.scala:89)
+	at scala.meta.internal.metals.Compilers.$anonfun$semanticTokens$3(Compilers.scala:545)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.lang.Thread.run(Thread.java:1570)
+
+Jul 15, 2024 10:45:06 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 14587
+Jul 15, 2024 10:45:23 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 14614
+2024.07.15 22:45:24 INFO  compiling practical5_ff3ffe18cb (1 scala source)
+2024.07.15 22:45:24 INFO  time: compiled practical5_ff3ffe18cb in 0.53s
+2024.07.15 22:47:05 INFO  compiling practical5_ff3ffe18cb (1 scala source)
+2024.07.15 22:47:05 INFO  time: compiled practical5_ff3ffe18cb in 0.55s
+Jul 15, 2024 10:47:50 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 14797
+2024.07.15 22:47:51 ERROR Failed to tokenize input for semantic tokens for D:\UCSC\2Yr 1Sem\FP\practical5\q2.scala
+scala.meta.tokenizers.TokenizeException: <input>:7: error: unclosed string literal
+    Book("Book1", "Amantha", "23),
+                             ^
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:32)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:32)
+	at scala.meta.internal.tokenizers.LegacyScanner.getStringLit(LegacyScanner.scala:509)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchDoubleQuote$1(LegacyScanner.scala:361)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchToken(LegacyScanner.scala:363)
+	at scala.meta.internal.tokenizers.LegacyScanner.nextToken(LegacyScanner.scala:201)
+	at scala.meta.internal.tokenizers.LegacyScanner.foreach(LegacyScanner.scala:912)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.uncachedTokenize(ScalametaTokenizer.scala:23)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.$anonfun$tokenize$1(ScalametaTokenizer.scala:17)
+	at scala.collection.concurrent.TrieMap.getOrElseUpdate(TrieMap.scala:960)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.tokenize(ScalametaTokenizer.scala:17)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer$$anon$2.apply(ScalametaTokenizer.scala:322)
+	at scala.meta.tokenizers.Api$XtensionTokenizeDialectInput.tokenize(Api.scala:22)
+	at scala.meta.tokenizers.Api$XtensionTokenizeInputLike.tokenize(Api.scala:13)
+	at scala.meta.internal.metals.SemanticTokensProvider$.getTokens(SemanticTokensProvider.scala:28)
+	at scala.meta.internal.metals.SemanticTokensProvider$.provide(SemanticTokensProvider.scala:89)
+	at scala.meta.internal.metals.Compilers.$anonfun$semanticTokens$3(Compilers.scala:545)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.lang.Thread.run(Thread.java:1570)
+
+2024.07.15 22:48:03 INFO  compiling practical5_ff3ffe18cb (1 scala source)
+2024.07.15 22:48:03 INFO  time: compiled practical5_ff3ffe18cb in 0.5s
+2024.07.15 22:48:29 INFO  no build target found for D:\UCSC\2Yr 1Sem\FP\practical5\q3.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.15 22:48:29 INFO  no build target found for D:\UCSC\2Yr 1Sem\FP\practical5\q3.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.15 22:48:29 WARN  Could not find semantic tokens for: file:///D:/UCSC/2Yr%201Sem/FP/practical5/q3.scala
+2024.07.15 22:48:30 INFO  running doctor check
+2024.07.15 22:48:30 INFO  java targets: practical5_ff3ffe18cb-test, practical5_ff3ffe18cb
+2024.07.15 22:48:30 INFO  compiling practical5_ff3ffe18cb (1 scala source)
+2024.07.15 22:48:30 INFO  time: compiled practical5_ff3ffe18cb in 0.15s
+2024.07.15 22:48:33 INFO  time: indexed workspace in 2.27s
+2024.07.15 22:48:33 WARN  Could not find semantic tokens for: file:///D:/UCSC/2Yr%201Sem/FP/practical5/q3.scala
+2024.07.15 22:48:48 WARN  Could not find semantic tokens for: file:///D:/UCSC/2Yr%201Sem/FP/practical5/q3.scala
+2024.07.15 22:48:48 WARN  Could not find semantic tokens for: file:///D:/UCSC/2Yr%201Sem/FP/practical5/q3.scala
+2024.07.15 22:48:49 WARN  Could not find semantic tokens for: file:///D:/UCSC/2Yr%201Sem/FP/practical5/q3.scala
+2024.07.15 22:48:51 WARN  Could not find semantic tokens for: file:///D:/UCSC/2Yr%201Sem/FP/practical5/q3.scala
+2024.07.15 22:48:52 WARN  Could not find semantic tokens for: file:///D:/UCSC/2Yr%201Sem/FP/practical5/q3.scala
+2024.07.15 22:48:53 WARN  Could not find semantic tokens for: file:///D:/UCSC/2Yr%201Sem/FP/practical5/q3.scala
+2024.07.15 22:48:53 WARN  Could not find semantic tokens for: file:///D:/UCSC/2Yr%201Sem/FP/practical5/q3.scala
+2024.07.15 22:48:53 WARN  Could not find semantic tokens for: file:///D:/UCSC/2Yr%201Sem/FP/practical5/q3.scala
+2024.07.15 22:48:54 WARN  Could not find semantic tokens for: file:///D:/UCSC/2Yr%201Sem/FP/practical5/q3.scala
+2024.07.15 22:48:54 WARN  Could not find semantic tokens for: file:///D:/UCSC/2Yr%201Sem/FP/practical5/q3.scala
+Jul 15, 2024 10:50:22 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 15503
+2024.07.15 22:52:30 INFO  compiling practical5_ff3ffe18cb (1 scala source)
+2024.07.15 22:52:30 INFO  time: compiled practical5_ff3ffe18cb in 0.31s
+2024.07.15 22:56:18 INFO  Shutting down server
+2024.07.15 22:56:18 INFO  shutting down Metals
+2024.07.15 22:56:18 INFO  Shut down connection with build server.
+2024.07.15 22:56:18 INFO  Exiting server
