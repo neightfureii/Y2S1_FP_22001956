@@ -1,0 +1,108 @@
+2024.08.05 21:37:41 INFO  Started: Metals version 1.3.4 in folders 'D:\UCSC\2Yr 1Sem\FP\practical7' for client Visual Studio Code 1.91.1.
+SLF4J(W): Class path contains multiple SLF4J providers.
+SLF4J(W): Found provider [scribe.slf4j.ScribeServiceProvider@3227d0b]
+SLF4J(W): Found provider [ch.qos.logback.classic.spi.LogbackServiceProvider@7b6fcd17]
+SLF4J(W): See https://www.slf4j.org/codes.html#multiple_bindings for an explanation.
+SLF4J(I): Actual provider is of type [scribe.slf4j.ScribeServiceProvider@3227d0b]
+2024.08.05 21:37:41 WARN  Flyway upgrade recommended: H2 2.3.230 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.220.
+2024.08.05 21:37:42 INFO  no build target found for D:\UCSC\2Yr 1Sem\FP\practical7\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.05 21:37:46 INFO  no build target found for D:\UCSC\2Yr 1Sem\FP\practical7\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.05 21:37:57 WARN  Flyway upgrade recommended: H2 2.3.230 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.220.
+2024.08.05 21:37:57 INFO  no build target found for D:\UCSC\2Yr 1Sem\FP\practical7\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.05 21:37:57 INFO  no build target found for D:\UCSC\2Yr 1Sem\FP\practical6\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.05 21:37:57 INFO  no build target found for D:\UCSC\2Yr 1Sem\FP\practical6\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.05 21:37:57 INFO  no build target found for D:\UCSC\2Yr 1Sem\FP\practical6\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.05 21:37:59 INFO  no build target found for D:\UCSC\2Yr 1Sem\FP\practical6\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.05 21:38:00 INFO  time: code lens generation in 2.44s
+2024.08.05 21:38:03 INFO  no build target found for D:\UCSC\2Yr 1Sem\FP\practical6\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.05 21:38:03 INFO  no build target found for D:\UCSC\2Yr 1Sem\FP\practical6\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.05 21:38:05 INFO  no build target found for D:\UCSC\2Yr 1Sem\FP\practical6\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.05 21:38:05 INFO  no build target found for D:\UCSC\2Yr 1Sem\FP\practical6\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.05 21:38:05 INFO  no build target found for D:\UCSC\2Yr 1Sem\FP\practical6\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.05 21:38:07 INFO  no build target found for D:\UCSC\2Yr 1Sem\FP\practical6\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.05 21:38:09 INFO  no build target found for D:\UCSC\2Yr 1Sem\FP\practical7\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.05 21:38:11 INFO  no build target found for D:\UCSC\2Yr 1Sem\FP\practical7\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.05 21:38:11 INFO  no build target found for D:\UCSC\2Yr 1Sem\FP\practical7\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.05 21:38:11 INFO  no build target found for D:\UCSC\2Yr 1Sem\FP\practical7\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.05 21:38:11 INFO  no build target found for D:\UCSC\2Yr 1Sem\FP\practical7\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.05 21:38:12 INFO  no build target found for D:\UCSC\2Yr 1Sem\FP\practical7\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.05 21:38:13 INFO  no build target found for D:\UCSC\2Yr 1Sem\FP\practical7\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.05 21:38:14 INFO  no build target found for D:\UCSC\2Yr 1Sem\FP\practical7\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+Aug 05, 2024 9:38:14 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 59
+2024.08.05 21:38:16 INFO  no build target found for D:\UCSC\2Yr 1Sem\FP\practical7\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.05 21:38:18 INFO  no build target found for D:\UCSC\2Yr 1Sem\FP\practical7\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.05 21:38:18 INFO  no build target found for D:\UCSC\2Yr 1Sem\FP\practical7\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.05 21:38:18 INFO  no build target found for D:\UCSC\2Yr 1Sem\FP\practical7\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.05 21:38:19 INFO  no build target found for D:\UCSC\2Yr 1Sem\FP\practical7\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.05 21:38:19 INFO  no build target found for D:\UCSC\2Yr 1Sem\FP\practical7\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.05 21:38:19 INFO  no build target found for D:\UCSC\2Yr 1Sem\FP\practical7\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.05 21:38:19 INFO  no build target found for D:\UCSC\2Yr 1Sem\FP\practical7\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.05 21:38:20 INFO  no build target found for D:\UCSC\2Yr 1Sem\FP\practical7\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.05 21:38:20 INFO  no build target found for D:\UCSC\2Yr 1Sem\FP\practical7\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.05 21:38:21 INFO  no build target found for D:\UCSC\2Yr 1Sem\FP\practical7\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.05 21:38:25 INFO  no build target found for D:\UCSC\2Yr 1Sem\FP\practical6\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.05 21:38:26 INFO  no build target found for D:\UCSC\2Yr 1Sem\FP\practical7\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.05 21:38:32 INFO  Running List(C:\Users\123\AppData\Local\Coursier\data\bin\scala-cli.BAT, setup-ide, D:\UCSC\2Yr 1Sem\FP\practical7)
+2024.08.05 21:38:32 INFO  Attempting to connect to the build server...
+2024.08.05 21:38:32 INFO  Running BSP server List(C:\Users\123\AppData\Local\Coursier\data\bin\.scala-cli.aux.exe, bsp, --json-options, D:\UCSC\2Yr 1Sem\FP\practical7\.scala-build\ide-options-v2.json, --json-launcher-options, D:\UCSC\2Yr 1Sem\FP\practical7\.scala-build\ide-launcher-options.json, --envs-file, D:\UCSC\2Yr 1Sem\FP\practical7\.scala-build\ide-envs.json, D:\UCSC\2Yr 1Sem\FP\practical7)
+2024.08.05 21:38:32 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at D:\UCSC\2Yr 1Sem\FP\practical7\.metals\bsp.trace.json or C:\Users\123\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.08.05 21:38:36 INFO  BSP server: Starting compilation server
+2024.08.05 21:38:48 INFO  time: Connected to build server in 16s
+2024.08.05 21:38:48 INFO  Connected to Build server: scala-cli v1.3.2
+2024.08.05 21:38:49 INFO  time: Imported build in 0.34s
+2024.08.05 21:38:49 INFO  running doctor check
+2024.08.05 21:38:49 INFO  java targets: practical7_ff3ffe18cb, practical7_ff3ffe18cb-test
+2024.08.05 21:38:50 INFO  compiling practical7_ff3ffe18cb (1 scala source)
+2024.08.05 21:38:52 INFO  Running List(C:\Users\123\AppData\Local\Coursier\data\bin\scala-cli.BAT, bsp, --workspace, D:\UCSC\2Yr 1Sem\FP\practical6\.metals-scala-cli, --semantic-db-source-root, D:\UCSC\2Yr 1Sem\FP\practical6, D:\UCSC\2Yr 1Sem\FP\practical6\q1.scala)
+2024.08.05 21:38:52 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at D:\UCSC\2Yr 1Sem\FP\practical6\.metals\bsp.trace.json or C:\Users\123\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.08.05 21:38:54 INFO  time: compiled practical7_ff3ffe18cb in 4.33s
+2024.08.05 21:38:56 INFO  Connected to Scala CLI server v1.3.2
+2024.08.05 21:38:56 INFO  compiling _049a16bed7-408549f558 (1 scala source)
+2024.08.05 21:38:58 WARN  Flyway upgrade recommended: H2 2.3.230 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.220.
+2024.08.05 21:39:00 INFO  time: compiled _049a16bed7-408549f558 in 4.55s
+2024.08.05 21:39:01 WARN  Flyway upgrade recommended: H2 2.3.230 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.220.
+2024.08.05 21:39:01 INFO  time: indexed workspace in 5.23s
+2024.08.05 21:39:01 INFO  Scala CLI started for D:\UCSC\2Yr 1Sem\FP\practical6\q1.scala
+2024.08.05 21:39:02 INFO  time: indexed workspace in 13s
+2024.08.05 21:41:01 INFO  compiling practical7_ff3ffe18cb (1 scala source)
+2024.08.05 21:41:01 INFO  time: compiled practical7_ff3ffe18cb in 0.93s
+2024.08.05 21:41:30 INFO  no build target found for D:\UCSC\2Yr 1Sem\FP\practical7\q2.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.05 21:41:30 INFO  no build target found for D:\UCSC\2Yr 1Sem\FP\practical7\q2.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.05 21:41:30 WARN  Could not find semantic tokens for: file:///D:/UCSC/2Yr%201Sem/FP/practical7/q2.scala
+2024.08.05 21:41:30 INFO  running doctor check
+2024.08.05 21:41:30 INFO  java targets: practical7_ff3ffe18cb, practical7_ff3ffe18cb-test
+2024.08.05 21:41:30 INFO  compiling practical7_ff3ffe18cb (1 scala source)
+2024.08.05 21:41:30 INFO  time: compiled practical7_ff3ffe18cb in 0.21s
+2024.08.05 21:41:33 INFO  time: indexed workspace in 2.46s
+2024.08.05 21:41:33 WARN  Could not find semantic tokens for: file:///D:/UCSC/2Yr%201Sem/FP/practical7/q2.scala
+2024.08.05 21:41:36 WARN  Could not find semantic tokens for: file:///D:/UCSC/2Yr%201Sem/FP/practical7/q2.scala
+2024.08.05 21:41:36 WARN  Could not find semantic tokens for: file:///D:/UCSC/2Yr%201Sem/FP/practical7/q2.scala
+2024.08.05 21:41:36 WARN  Could not find semantic tokens for: file:///D:/UCSC/2Yr%201Sem/FP/practical7/q2.scala
+2024.08.05 21:41:38 WARN  Could not find semantic tokens for: file:///D:/UCSC/2Yr%201Sem/FP/practical7/q2.scala
+2024.08.05 21:45:34 INFO  compiling practical7_ff3ffe18cb (1 scala source)
+2024.08.05 21:45:34 INFO  time: compiled practical7_ff3ffe18cb in 0.58s
+2024.08.05 21:45:56 INFO  no build target found for D:\UCSC\2Yr 1Sem\FP\practical7\q3.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.05 21:45:56 INFO  no build target found for D:\UCSC\2Yr 1Sem\FP\practical7\q3.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.05 21:45:56 WARN  Could not find semantic tokens for: file:///D:/UCSC/2Yr%201Sem/FP/practical7/q3.scala
+2024.08.05 21:45:56 INFO  running doctor check
+2024.08.05 21:45:56 INFO  java targets: practical7_ff3ffe18cb, practical7_ff3ffe18cb-test
+2024.08.05 21:45:56 INFO  compiling practical7_ff3ffe18cb (1 scala source)
+2024.08.05 21:45:56 INFO  time: compiled practical7_ff3ffe18cb in 0.25s
+2024.08.05 21:45:59 INFO  time: indexed workspace in 2.25s
+2024.08.05 21:45:59 WARN  Could not find semantic tokens for: file:///D:/UCSC/2Yr%201Sem/FP/practical7/q3.scala
+2024.08.05 21:45:59 WARN  Could not find semantic tokens for: file:///D:/UCSC/2Yr%201Sem/FP/practical7/q3.scala
+Aug 05, 2024 9:45:59 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1449
+2024.08.05 21:45:59 WARN  Could not find semantic tokens for: file:///D:/UCSC/2Yr%201Sem/FP/practical7/q3.scala
+2024.08.05 21:46:00 WARN  Could not find semantic tokens for: file:///D:/UCSC/2Yr%201Sem/FP/practical7/q3.scala
+Aug 05, 2024 9:48:25 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2307
+2024.08.05 21:49:12 INFO  compiling practical7_ff3ffe18cb (1 scala source)
+2024.08.05 21:49:12 INFO  time: compiled practical7_ff3ffe18cb in 0.57s
+2024.08.05 21:49:38 INFO  compiling practical7_ff3ffe18cb (1 scala source)
+2024.08.05 21:49:38 INFO  time: compiled practical7_ff3ffe18cb in 0.43s
+2024.08.05 21:56:37 INFO  Shutting down server
+2024.08.05 21:56:37 INFO  shutting down Metals
+2024.08.05 21:56:37 INFO  Shut down connection with build server.
+2024.08.05 21:56:37 INFO  Exiting server
