@@ -1,0 +1,71 @@
+2024.08.10 09:58:19 INFO  Started: Metals version 1.3.5 in folders 'D:\UCSC\2Yr 1Sem\FP\practical8' for client Visual Studio Code 1.91.1.
+SLF4J(W): Class path contains multiple SLF4J providers.
+SLF4J(W): Found provider [scribe.slf4j.ScribeServiceProvider@66e58aba]
+SLF4J(W): Found provider [ch.qos.logback.classic.spi.LogbackServiceProvider@401b842]
+SLF4J(W): See https://www.slf4j.org/codes.html#multiple_bindings for an explanation.
+SLF4J(I): Actual provider is of type [scribe.slf4j.ScribeServiceProvider@66e58aba]
+2024.08.10 09:58:21 WARN  Flyway upgrade recommended: H2 2.3.230 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.220.
+2024.08.10 09:58:24 INFO  no build target found for D:\UCSC\2Yr 1Sem\FP\practical8\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.10 09:58:51 INFO  Running List(C:\Users\123\AppData\Local\Coursier\data\bin\scala-cli.BAT, setup-ide, D:\UCSC\2Yr 1Sem\FP\practical8)
+2024.08.10 09:58:51 INFO  Attempting to connect to the build server...
+2024.08.10 09:58:51 INFO  Running BSP server List(C:\Users\123\AppData\Local\Coursier\data\bin\.scala-cli.aux.exe, bsp, --json-options, D:\UCSC\2Yr 1Sem\FP\practical8\.scala-build\ide-options-v2.json, --json-launcher-options, D:\UCSC\2Yr 1Sem\FP\practical8\.scala-build\ide-launcher-options.json, --envs-file, D:\UCSC\2Yr 1Sem\FP\practical8\.scala-build\ide-envs.json, D:\UCSC\2Yr 1Sem\FP\practical8)
+2024.08.10 09:58:51 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at D:\UCSC\2Yr 1Sem\FP\practical8\.metals\bsp.trace.json or C:\Users\123\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.08.10 09:58:55 INFO  BSP server: Starting compilation server
+2024.08.10 09:59:12 INFO  time: Connected to build server in 21s
+2024.08.10 09:59:12 INFO  Connected to Build server: scala-cli v1.3.2
+2024.08.10 09:59:13 INFO  time: Imported build in 0.38s
+2024.08.10 09:59:14 INFO  compiling practical8_ff3ffe18cb (1 scala source)
+2024.08.10 09:59:31 INFO  running doctor check
+2024.08.10 09:59:31 INFO  java targets: practical8_ff3ffe18cb-test, practical8_ff3ffe18cb
+2024.08.10 09:59:46 WARN  Flyway upgrade recommended: H2 2.3.230 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.220.
+2024.08.10 09:59:48 INFO  time: indexed workspace in 16s
+Aug 10, 2024 10:02:06 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1043
+Aug 10, 2024 10:02:39 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1318
+Aug 10, 2024 10:03:27 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1673
+Aug 10, 2024 10:04:01 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1875
+Aug 10, 2024 10:04:06 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1926
+Aug 10, 2024 10:04:13 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1982
+Aug 10, 2024 10:04:38 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2173
+2024.08.10 10:05:19 INFO  compiling practical8_ff3ffe18cb (1 scala source)
+2024.08.10 10:05:22 INFO  time: compiled practical8_ff3ffe18cb in 3.11s
+2024.08.10 10:06:03 INFO  no build target found for D:\UCSC\2Yr 1Sem\FP\practical8\q2.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.10 10:06:03 INFO  no build target found for D:\UCSC\2Yr 1Sem\FP\practical8\q2.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.10 10:06:03 INFO  compiling practical8_ff3ffe18cb (1 scala source)
+2024.08.10 10:06:03 INFO  time: compiled practical8_ff3ffe18cb in 0.24s
+2024.08.10 10:06:04 INFO  no build target found for D:\UCSC\2Yr 1Sem\FP\practical8\q2.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.10 10:06:04 INFO  running doctor check
+2024.08.10 10:06:04 INFO  java targets: practical8_ff3ffe18cb-test, practical8_ff3ffe18cb
+2024.08.10 10:06:04 WARN  Could not find semantic tokens for: file:///D:/UCSC/2Yr%201Sem/FP/practical8/q2.scala
+2024.08.10 10:06:04 INFO  time: code lens generation in 1.63s
+2024.08.10 10:06:07 INFO  time: indexed workspace in 3.62s
+2024.08.10 10:06:17 WARN  Could not find semantic tokens for: file:///D:/UCSC/2Yr%201Sem/FP/practical8/q2.scala
+2024.08.10 10:06:23 WARN  Could not find semantic tokens for: file:///D:/UCSC/2Yr%201Sem/FP/practical8/q2.scala
+2024.08.10 10:06:23 WARN  Could not find semantic tokens for: file:///D:/UCSC/2Yr%201Sem/FP/practical8/q2.scala
+2024.08.10 10:06:25 WARN  Could not find semantic tokens for: file:///D:/UCSC/2Yr%201Sem/FP/practical8/q2.scala
+Aug 10, 2024 10:13:31 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3008
+Aug 10, 2024 10:14:35 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3360
+Aug 10, 2024 10:15:22 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3662
+Aug 10, 2024 10:15:55 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3916
+Aug 10, 2024 10:17:49 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4198
+2024.08.10 10:17:57 INFO  compiling practical8_ff3ffe18cb (1 scala source)
+2024.08.10 10:17:59 INFO  time: compiled practical8_ff3ffe18cb in 1.56s
+Aug 10, 2024 10:19:16 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4391
+2024.08.10 10:26:54 INFO  compiling practical8_ff3ffe18cb (1 scala source)
+2024.08.10 10:26:54 INFO  time: compiled practical8_ff3ffe18cb in 0.73s
+2024.08.10 10:27:55 INFO  Shutting down server
+2024.08.10 10:27:55 INFO  shutting down Metals
+2024.08.10 10:27:55 INFO  Shut down connection with build server.
+2024.08.10 10:27:55 INFO  Exiting server
