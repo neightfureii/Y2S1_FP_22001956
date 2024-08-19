@@ -23,8 +23,8 @@ object q1 {
   }
 
   def main(args: Array[String]): Unit = {
-    val plaintext = "Hello, world!"
-    val shift = 1
+    val plaintext = "C@at"
+    val shift = 3
 
     println(s"Plain text: $plaintext")
 

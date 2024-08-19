@@ -1,0 +1,183 @@
+2024.08.19 14:57:55 INFO  Started: Metals version 1.3.5 in folders 'D:\UCSC\2Yr 1Sem\FP\practical9' for client Visual Studio Code 1.92.1.
+SLF4J(W): Class path contains multiple SLF4J providers.
+SLF4J(W): Found provider [scribe.slf4j.ScribeServiceProvider@33aecb1b]
+SLF4J(W): Found provider [ch.qos.logback.classic.spi.LogbackServiceProvider@4570ba74]
+SLF4J(W): See https://www.slf4j.org/codes.html#multiple_bindings for an explanation.
+SLF4J(I): Actual provider is of type [scribe.slf4j.ScribeServiceProvider@33aecb1b]
+2024.08.19 14:57:55 WARN  Flyway upgrade recommended: H2 2.3.230 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.220.
+2024.08.19 14:57:57 INFO  no build target found for D:\UCSC\2Yr 1Sem\FP\practical9\interestCal.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.19 14:57:56 INFO  no build target found for d:\UCSC\2Yr 1Sem\FP\practical9\interestCal.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.19 14:58:03 INFO  no build target found for D:\UCSC\2Yr 1Sem\FP\practical9\InterestCalculator.scala. Using presentation compiler with project's scala-library version: 3.3.3
+Aug 19, 2024 2:58:03 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 9
+Aug 19, 2024 2:58:03 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 12
+Aug 19, 2024 2:58:03 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 14
+2024.08.19 14:58:03 INFO  no build target found for D:\UCSC\2Yr 1Sem\FP\practical9\InterestCalculator.scala. Using presentation compiler with project's scala-library version: 3.3.3
+Aug 19, 2024 2:58:03 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 16
+Aug 19, 2024 2:58:03 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 10
+2024.08.19 14:58:05 INFO  Running List(C:\Users\123\AppData\Local\Coursier\data\bin\scala-cli.BAT, setup-ide, D:\UCSC\2Yr 1Sem\FP\practical9)
+2024.08.19 14:58:05 INFO  Attempting to connect to the build server...
+2024.08.19 14:58:05 INFO  Running BSP server List(C:\Users\123\AppData\Local\Coursier\data\bin\.scala-cli.aux.exe, bsp, --json-options, D:\UCSC\2Yr 1Sem\FP\practical9\.scala-build\ide-options-v2.json, --json-launcher-options, D:\UCSC\2Yr 1Sem\FP\practical9\.scala-build\ide-launcher-options.json, --envs-file, D:\UCSC\2Yr 1Sem\FP\practical9\.scala-build\ide-envs.json, D:\UCSC\2Yr 1Sem\FP\practical9)
+2024.08.19 14:58:05 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at D:\UCSC\2Yr 1Sem\FP\practical9\.metals\bsp.trace.json or C:\Users\123\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.08.19 14:58:08 INFO  no build target found for D:\UCSC\2Yr 1Sem\FP\practical9\InterestCalculator.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.19 14:58:08 INFO  BSP server: Starting compilation server
+2024.08.19 14:58:13 INFO  no build target found for D:\UCSC\2Yr 1Sem\FP\practical9\InterestCalculator.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.19 14:58:20 INFO  no build target found for D:\UCSC\2Yr 1Sem\FP\practical9\InterestCalculator.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.19 14:58:20 INFO  no build target found for D:\UCSC\2Yr 1Sem\FP\practical9\InterestCalculator.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.19 14:58:20 INFO  no build target found for D:\UCSC\2Yr 1Sem\FP\practical9\InterestCalculator.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.19 14:58:21 INFO  no build target found for D:\UCSC\2Yr 1Sem\FP\practical9\InterestCalculator.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.19 14:58:21 INFO  no build target found for D:\UCSC\2Yr 1Sem\FP\practical9\InterestCalculator.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.19 14:58:21 INFO  no build target found for D:\UCSC\2Yr 1Sem\FP\practical9\InterestCalculator.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.19 14:58:21 INFO  no build target found for D:\UCSC\2Yr 1Sem\FP\practical9\InterestCalculator.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.19 14:58:21 INFO  no build target found for D:\UCSC\2Yr 1Sem\FP\practical9\InterestCalculator.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.19 14:58:22 INFO  no build target found for D:\UCSC\2Yr 1Sem\FP\practical9\InterestCalculator.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.19 14:58:23 INFO  no build target found for D:\UCSC\2Yr 1Sem\FP\practical9\InterestCalculator.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.19 14:58:24 INFO  no build target found for D:\UCSC\2Yr 1Sem\FP\practical9\InterestCalculator.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.19 14:58:27 INFO  time: Connected to build server in 21s
+2024.08.19 14:58:27 INFO  Connected to Build server: scala-cli v1.3.2
+2024.08.19 14:58:27 INFO  no build target found for D:\UCSC\2Yr 1Sem\FP\practical9\InterestCalculator.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.19 14:58:27 INFO  no build target found for D:\UCSC\2Yr 1Sem\FP\practical9\InterestCalculator.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.19 14:58:27 INFO  time: Imported build in 0.42s
+2024.08.19 14:58:27 INFO  running doctor check
+2024.08.19 14:58:27 INFO  java targets: practical9_ff3ffe18cb-test, practical9_ff3ffe18cb
+2024.08.19 14:58:28 INFO  compiling practical9_ff3ffe18cb (1 scala source)
+2024.08.19 14:58:33 INFO  time: compiled practical9_ff3ffe18cb in 4.19s
+Aug 19, 2024 2:58:36 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 65
+Aug 19, 2024 2:58:36 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 73
+2024.08.19 14:58:37 WARN  Flyway upgrade recommended: H2 2.3.230 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.220.
+2024.08.19 14:58:39 INFO  time: indexed workspace in 11s
+Aug 19, 2024 3:01:32 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 331
+Aug 19, 2024 3:02:39 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 773
+Aug 19, 2024 3:02:40 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 788
+Aug 19, 2024 3:03:25 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 836
+2024.08.19 15:05:17 WARN  Could not find semantic tokens for: file:///D:/UCSC/2Yr%201Sem/FP/practical9/InterestCalculator.scala
+2024.08.19 15:07:19 INFO  compiling practical9_ff3ffe18cb (1 scala source)
+2024.08.19 15:07:21 INFO  time: compiled practical9_ff3ffe18cb in 1.55s
+2024.08.19 15:07:50 INFO  compiling practical9_ff3ffe18cb (1 scala source)
+2024.08.19 15:07:50 INFO  time: compiled practical9_ff3ffe18cb in 0.67s
+2024.08.19 15:08:06 INFO  compiling practical9_ff3ffe18cb (1 scala source)
+2024.08.19 15:08:06 INFO  time: compiled practical9_ff3ffe18cb in 0.9s
+2024.08.19 15:14:52 INFO  no build target found for D:\UCSC\2Yr 1Sem\FP\practical9\PatternMatching.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.19 15:14:52 INFO  no build target found for D:\UCSC\2Yr 1Sem\FP\practical9\PatternMatching.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.19 15:14:53 WARN  Could not find semantic tokens for: file:///D:/UCSC/2Yr%201Sem/FP/practical9/PatternMatching.scala
+2024.08.19 15:14:53 INFO  running doctor check
+2024.08.19 15:14:53 INFO  java targets: practical9_ff3ffe18cb-test, practical9_ff3ffe18cb
+2024.08.19 15:14:53 INFO  compiling practical9_ff3ffe18cb (1 scala source)
+2024.08.19 15:14:53 INFO  time: compiled practical9_ff3ffe18cb in 0.95s
+2024.08.19 15:14:55 WARN  Could not find semantic tokens for: file:///D:/UCSC/2Yr%201Sem/FP/practical9/PatternMatching.scala
+2024.08.19 15:14:55 WARN  Could not find semantic tokens for: file:///D:/UCSC/2Yr%201Sem/FP/practical9/PatternMatching.scala
+2024.08.19 15:14:55 WARN  Could not find semantic tokens for: file:///D:/UCSC/2Yr%201Sem/FP/practical9/PatternMatching.scala
+2024.08.19 15:14:55 INFO  time: indexed workspace in 2.74s
+2024.08.19 15:14:56 WARN  Could not find semantic tokens for: file:///D:/UCSC/2Yr%201Sem/FP/practical9/PatternMatching.scala
+2024.08.19 15:14:57 WARN  Could not find semantic tokens for: file:///D:/UCSC/2Yr%201Sem/FP/practical9/PatternMatching.scala
+2024.08.19 15:15:06 INFO  compiling practical9_ff3ffe18cb (1 scala source)
+2024.08.19 15:15:06 INFO  time: compiled practical9_ff3ffe18cb in 0.67s
+2024.08.19 15:17:55 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical9\PatternMatching.scala
+2024.08.19 15:17:55 INFO  compiling practical9_ff3ffe18cb (1 scala source)
+2024.08.19 15:17:55 INFO  time: compiled practical9_ff3ffe18cb in 0.51s
+2024.08.19 15:18:14 WARN  Flyway upgrade recommended: H2 2.3.230 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.220.
+2024.08.19 15:18:14 INFO  no build target found for D:\UCSC\2Yr 1Sem\FP\practical8\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.19 15:18:16 INFO  time: code lens generation in 2.49s
+2024.08.19 15:18:17 INFO  Running List(C:\Users\123\AppData\Local\Coursier\data\bin\scala-cli.BAT, bsp, --workspace, D:\UCSC\2Yr 1Sem\FP\practical8\.metals-scala-cli, --semantic-db-source-root, D:\UCSC\2Yr 1Sem\FP\practical8, D:\UCSC\2Yr 1Sem\FP\practical8\q1.scala)
+2024.08.19 15:18:17 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at D:\UCSC\2Yr 1Sem\FP\practical8\.metals\bsp.trace.json or C:\Users\123\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.08.19 15:18:20 INFO  no build target found for D:\UCSC\2Yr 1Sem\FP\practical8\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.19 15:18:21 INFO  Connected to Scala CLI server v1.3.2
+2024.08.19 15:18:21 INFO  Shut down connection with build server.
+2024.08.19 15:18:21 INFO  Scala targets not supported by server
+2024.08.19 15:18:21 INFO  Scala CLI: Aug 19, 2024 3:18:21 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleNotification
+2024.08.19 15:18:27 INFO  no build target found for D:\UCSC\2Yr 1Sem\FP\practical8\q2.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.19 15:18:27 INFO  Running List(C:\Users\123\AppData\Local\Coursier\data\bin\scala-cli.BAT, bsp, --workspace, D:\UCSC\2Yr 1Sem\FP\practical8\.metals-scala-cli, --semantic-db-source-root, D:\UCSC\2Yr 1Sem\FP\practical8, D:\UCSC\2Yr 1Sem\FP\practical8\q2.scala)
+2024.08.19 15:18:27 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at D:\UCSC\2Yr 1Sem\FP\practical8\.metals\bsp.trace.json or C:\Users\123\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.08.19 15:18:29 INFO  no build target found for D:\UCSC\2Yr 1Sem\FP\practical8\q2.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.19 15:18:29 INFO  no build target found for D:\UCSC\2Yr 1Sem\FP\practical8\q2.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.19 15:18:29 INFO  no build target found for D:\UCSC\2Yr 1Sem\FP\practical8\q2.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.19 15:18:30 INFO  no build target found for D:\UCSC\2Yr 1Sem\FP\practical8\q2.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.19 15:18:31 INFO  Connected to Scala CLI server v1.3.2
+2024.08.19 15:18:32 INFO  compiling _1cbf81d18e-fe3186fe33 (1 scala source)
+2024.08.19 15:18:32 INFO  time: compiled _1cbf81d18e-fe3186fe33 in 0.88s
+2024.08.19 15:18:33 WARN  Flyway upgrade recommended: H2 2.3.230 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.220.
+2024.08.19 15:18:33 INFO  time: indexed workspace in 3.04s
+2024.08.19 15:18:35 INFO  Scala CLI started for D:\UCSC\2Yr 1Sem\FP\practical8\q2.scala
+2024.08.19 15:18:38 INFO  time: code lens generation in 2.92s
+2024.08.19 15:18:38 INFO  time: code lens generation in 2.52s
+2024.08.19 15:18:38 INFO  time: code lens generation in 3.29s
+2024.08.19 15:18:52 INFO  Shut down connection with build server.
+2024.08.19 15:18:52 INFO  Scala CLI: Aug 19, 2024 3:18:52 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleNotification
+2024.08.19 15:22:09 INFO  compiling practical9_ff3ffe18cb (1 scala source)
+2024.08.19 15:22:09 INFO  time: compiled practical9_ff3ffe18cb in 0.32s
+Aug 19, 2024 3:26:50 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report D:\UCSC\2Yr 1Sem\FP\practical9\.metals\.reports\metals-full\2024-08-19\r_compiler-error_(practical9_ff3ffe18cb)_15-26-50-504.md
+Aug 19, 2024 3:27:34 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3398
+2024.08.19 15:28:15 INFO  compiling practical9_ff3ffe18cb (1 scala source)
+2024.08.19 15:28:15 INFO  time: compiled practical9_ff3ffe18cb in 0.41s
+Aug 19, 2024 3:31:17 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3600
+2024.08.19 15:32:08 INFO  compiling practical9_ff3ffe18cb (1 scala source)
+2024.08.19 15:32:08 INFO  time: compiled practical9_ff3ffe18cb in 0.53s
+2024.08.19 15:35:24 INFO  no build target found for D:\UCSC\2Yr 1Sem\FP\practical9\StringFormatter.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.19 15:35:24 INFO  no build target found for D:\UCSC\2Yr 1Sem\FP\practical9\StringFormatter.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.19 15:35:24 WARN  Could not find semantic tokens for: file:///D:/UCSC/2Yr%201Sem/FP/practical9/StringFormatter.scala
+2024.08.19 15:35:25 INFO  running doctor check
+2024.08.19 15:35:25 INFO  java targets: practical9_ff3ffe18cb-test, practical9_ff3ffe18cb
+2024.08.19 15:35:25 INFO  compiling practical9_ff3ffe18cb (1 scala source)
+2024.08.19 15:35:25 INFO  time: compiled practical9_ff3ffe18cb in 0.19s
+2024.08.19 15:35:27 WARN  Could not find semantic tokens for: file:///D:/UCSC/2Yr%201Sem/FP/practical9/StringFormatter.scala
+2024.08.19 15:35:27 WARN  Could not find semantic tokens for: file:///D:/UCSC/2Yr%201Sem/FP/practical9/StringFormatter.scala
+2024.08.19 15:35:27 INFO  time: indexed workspace in 2.64s
+2024.08.19 15:35:28 WARN  Could not find semantic tokens for: file:///D:/UCSC/2Yr%201Sem/FP/practical9/StringFormatter.scala
+2024.08.19 15:35:27 WARN  Could not find semantic tokens for: file:///D:/UCSC/2Yr%201Sem/FP/practical9/StringFormatter.scala
+Aug 19, 2024 3:35:48 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3745
+Aug 19, 2024 3:36:00 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3854
+Aug 19, 2024 3:36:18 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4014
+Aug 19, 2024 3:43:36 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4284
+Aug 19, 2024 3:47:16 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 5526
+2024.08.19 15:48:59 INFO  compiling practical9_ff3ffe18cb (1 scala source)
+2024.08.19 15:48:59 INFO  time: compiled practical9_ff3ffe18cb in 0.58s
+2024.08.19 15:50:48 WARN  Could not load snapshot text for D:\UCSC\2Yr 1Sem\FP\practical9\StringFormatter.scala
+2024.08.19 15:50:48 INFO  compiling practical9_ff3ffe18cb (1 scala source)
+2024.08.19 15:50:48 INFO  time: compiled practical9_ff3ffe18cb in 0.45s
+Aug 19, 2024 3:51:05 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 6201
+Aug 19, 2024 3:51:29 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 6327
+2024.08.19 15:51:48 ERROR scalafmt: D:\UCSC\2Yr 1Sem\FP\practical9\StringFormatter.scala:27: error: [dialect scala3] ) expected but } found
+  }
+  ^
+2024.08.19 15:51:49 INFO  compiling practical9_ff3ffe18cb (1 scala source)
+2024.08.19 15:51:49 INFO  time: compiled practical9_ff3ffe18cb in 0.13s
+2024.08.19 15:53:29 ERROR scalafmt: D:\UCSC\2Yr 1Sem\FP\practical9\StringFormatter.scala:20: error: [dialect scala3] ) expected but } found
+  }
+  ^
+2024.08.19 15:53:29 INFO  compiling practical9_ff3ffe18cb (1 scala source)
+2024.08.19 15:53:29 INFO  time: compiled practical9_ff3ffe18cb in 0.14s
+Aug 19, 2024 3:53:37 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 6741
+2024.08.19 15:53:46 ERROR scalafmt: D:\UCSC\2Yr 1Sem\FP\practical9\StringFormatter.scala:22: error: [dialect scala3] } expected but end of file found
+
+^
+2024.08.19 15:53:47 INFO  compiling practical9_ff3ffe18cb (1 scala source)
+2024.08.19 15:53:47 INFO  time: compiled practical9_ff3ffe18cb in 0.15s
+2024.08.19 15:53:58 INFO  compiling practical9_ff3ffe18cb (1 scala source)
+2024.08.19 15:53:58 INFO  time: compiled practical9_ff3ffe18cb in 0.4s
+Aug 19, 2024 3:58:32 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 6829
+2024.08.19 16:05:02 INFO  Shutting down server
+2024.08.19 16:05:02 INFO  shutting down Metals
+2024.08.19 16:05:02 INFO  Shut down connection with build server.
+2024.08.19 16:05:02 INFO  Exiting server
